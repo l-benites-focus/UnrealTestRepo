@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Repos/UnrealTestRepo/UnrealTestGit/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"D:/Repos/UnrealTestRepo/UnrealTestGit/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset"
 			]
 		}
 	]
