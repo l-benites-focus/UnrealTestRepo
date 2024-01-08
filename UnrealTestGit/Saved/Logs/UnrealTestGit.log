@@ -2247,3 +2247,13 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-15.56.22:264][ 18]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
 [2024.01.08-15.56.22:264][ 18]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.WorldDataLayers
 [2024.01.08-15.56.22:264][ 18]LogContentValidation: Display: Validating /Script/Engine.World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.01.08-15.59.14:495][751]Cmd: DELETE
+[2024.01.08-15.59.14:495][751]Cmd: ACTOR DELETE
+[2024.01.08-15.59.14:498][751]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2024.01.08-15.59.14:524][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.01.08-15.59.14:525][751]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.01.08-15.59.18:469][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-15.59.18:550][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.08-15.59.18:559][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.08-15.59.18:566][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.08-15.59.18:576][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.59 sec)
