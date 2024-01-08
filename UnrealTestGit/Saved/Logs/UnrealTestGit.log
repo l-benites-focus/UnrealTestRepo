@@ -1060,3 +1060,26 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-14.46.02:993][212]LogTurnkeySupport: Turnkey Device: Win64@FOCUSP089: (Name=FOCUSP089, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
 [2024.01.08-14.48.00:688][566]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.198 and deleted 0 files with total size 0 MiB. Scanned 8044 files in 7895 folders with total size 135 MiB.
 [2024.01.08-14.50.52:277][285]LogViewport: Scene viewport resized to 1014x582, mode Windowed.
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Total job queries 99, among them cache hits 4 (4.04%)
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Tracking 94 distinct input hashes that result in 80 distinct outputs (85.11%)
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: RAM used: 0.82 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Jobs assigned 2, completed 1 (50.00%)
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.07 s
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 1.87 s
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Job life time (pending + execution): average 1.94 s, max 1.94
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.94 s
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Average processing rate: 0.51 jobs/sec
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Total thread time: 0.74 s
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Total thread preprocess time: 0.09 s
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Percentage time preprocessing: 12.42%
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Effective parallelization: 0.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
+[2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: ================================================
