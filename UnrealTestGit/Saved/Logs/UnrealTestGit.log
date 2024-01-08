@@ -2257,3 +2257,26 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-15.59.18:559][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.01.08-15.59.18:566][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.01.08-15.59.18:576][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 3.59 sec)
+[2024.01.08-15.59.45:341][989]Cmd: DELETE
+[2024.01.08-15.59.45:341][989]Cmd: ACTOR DELETE
+[2024.01.08-15.59.45:343][989]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.08-15.59.45:353][989]LogWorldPartition: Actor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0 is unreachable without properly detaching object /Game/__ExternalActors__/OpenWorldOmg/B/KC/MV8M4AHVPUY2F7ONCDGWMK.PackageMetaData in its package
+[2024.01.08-15.59.45:354][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.08-15.59.45:355][989]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.01.08-15.59.45:368][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.08-15.59.47:034][178]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-15.59.47:173][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.08-15.59.47:182][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.01.08-15.59.47:190][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.01.08-15.59.47:198][178]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 3.75 sec)
+[2024.01.08-16.00.12:996][809]LogWorldPartition: Actor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 is unreachable without properly detaching object /Game/__ExternalActors__/OpenWorldOmg/D/88/VL2VAFRIYR0FWFEV9AHEWR.PackageMetaData in its package
+[2024.01.08-16.00.12:997][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.08-16.00.13:008][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.08-16.00.33:805][951]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.08-16.00.40:444][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.08-16.00.40:447][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-16.00.40:500][665]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/C2/QY7SRPZZGZT4XX1ZXQ9GTN
+[2024.01.08-16.00.40:500][665]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/QY7SRPZZGZT4XX1ZXQ9GTNA1C63EA04324134E9382C0B59BFFF449.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/C2/QY7SRPZZGZT4XX1ZXQ9GTN.uasset'
+[2024.01.08-16.00.40:532][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 3.84 sec)
+[2024.01.08-16.00.40:535][665]AssetCheck: New page: Asset Save: SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2024.01.08-16.00.40:535][665]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
