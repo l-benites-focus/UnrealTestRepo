@@ -1058,3 +1058,4 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-14.45.59:786][  1]LogHoloLensTargetPlatform: Display: The device https://192.168.57.229:50443/ have been successefully added
 [2024.01.08-14.46.02:806][212]LogTurnkeySupport: Completed device detection: Code = 0
 [2024.01.08-14.46.02:993][212]LogTurnkeySupport: Turnkey Device: Win64@FOCUSP089: (Name=FOCUSP089, Type=Computer, Status=Valid, , Flags="Device_InstallSoftwareValid")
+[2024.01.08-14.48.00:688][566]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.198 and deleted 0 files with total size 0 MiB. Scanned 8044 files in 7895 folders with total size 135 MiB.
