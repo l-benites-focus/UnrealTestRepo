@@ -1083,3 +1083,4 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: Top 1 shader types by total compile time:
 [2024.01.08-14.53.00:680][109]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.74 sec, max 0.74 sec, min 0.74 sec)
 [2024.01.08-14.53.00:680][109]LogShaderCompilers: Display: ================================================
+[2024.01.08-14.55.13:265][405]LogSlate: Took 0.004026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
