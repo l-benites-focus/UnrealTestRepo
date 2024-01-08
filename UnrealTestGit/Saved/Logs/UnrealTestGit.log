@@ -1197,3 +1197,9 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.01.08-15.39.49:818][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.38 sec)
 [2024.01.08-15.39.49:822][993]AssetCheck: New page: Asset Save: StaticMeshActor_35
 [2024.01.08-15.39.49:822][993]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
+[2024.01.08-15.44.35:017][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-15.44.35:073][109]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF
+[2024.01.08-15.44.35:073][109]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/UUYHDUFQAXTRRN4RVOPIUFB990067E4103CAA5CB368EABD4FF42C0.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset'
+[2024.01.08-15.44.35:084][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 1.44 sec)
+[2024.01.08-15.44.35:087][109]AssetCheck: New page: Asset Save: StaticMeshActor_35
+[2024.01.08-15.44.35:087][109]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35
