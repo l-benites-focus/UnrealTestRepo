@@ -1079,3 +1079,39 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.01.12-09.45.49:573][662]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.12-09.45.49:574][662]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.01.12-09.45.49:574][662]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.12-09.47.51:633][ 71]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.600 and deleted 0 files with total size 0 MiB. Scanned 14625 files in 14241 folders with total size 311 MiB.
+[2024.01.12-09.49.14:619][320]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.01.12-09.49.14:765][320]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2828
+[2024.01.12-09.49.15:100][321]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d41bdcc4-4bc4-4344-a962-096a5508e0d5}, Name=Casque pour téléphone (Jabra EVOLVE 30 II)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.77
+[2024.01.12-09.49.15:100][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.12-09.49.15:101][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.12-09.51.18:043][690]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.12-09.51.18:232][690]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2828
+[2024.01.12-09.51.18:321][691]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3} Name=PLX2783H (NVIDIA High Definition Audio))
+[2024.01.12-09.51.18:374][691]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.01.12-09.51.18:536][691]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.12-09.51.19:234][693]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3}, Name=PLX2783H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.27
+[2024.01.12-09.51.19:234][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.12-09.51.19:235][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.12-09.52.22:330][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.12-09.52.22:334][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-09.52.22:376][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2024.01.12-09.52.22:377][921]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/5PI42YRDC8HSSG6BVV2GRR11752EC44A606BDCC641D182941F0754.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2024.01.12-09.52.22:379][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+[2024.01.12-09.52.22:380][921]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/IM858T68EBXCBX1T2FNR96241B55C14FA92FBFF8360D907B2A0331.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2024.01.12-09.52.22:383][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2024.01.12-09.52.22:384][921]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H8YL2PPHZPBTI74SUD0RNL50DB6A6E4A15BCFDD22334A3E5D550AE.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2024.01.12-09.52.22:387][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.12-09.52.22:388][921]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Q7Y1URWWFS0TXGWUTO3S613F47BDDC4D4A496B3A24A9A11356D032.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.12-09.52.22:390][921]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR
+[2024.01.12-09.52.22:391][921]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NMHOKL5LGQDOAAG00FUMZRF3414A2E4D775E7DB1D3979D300E3789.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.uasset'
+[2024.01.12-09.52.22:418][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 182 ms)
+[2024.01.12-09.52.22:422][921]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.12-09.52.22:422][921]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15
+[2024.01.12-09.52.22:422][921]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14
+[2024.01.12-09.52.22:422][921]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2024.01.12-09.52.22:422][921]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.12-09.52.22:422][921]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.01.12-09.52.26:275][337]LogAssetEditorSubsystem: Opening Asset editor for HLODLayer /Game/OpenWorldOmg_HLOD0_Instancing.OpenWorldOmg_HLOD0_Instancing
+[2024.01.12-09.52.38:821][491]LogSlate: Window 'OpenWorldOmg_HLOD0_Instancing' being destroyed
+[2024.01.12-09.52.38:828][491]LogSlate: Window 'OpenWorldOmg_HLOD0_Instancing' being destroyed
