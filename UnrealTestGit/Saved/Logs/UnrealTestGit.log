@@ -1333,3 +1333,147 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.01.15-16.38.51:965][433]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.01.15-16.38.51:965][433]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
 [2024.01.15-16.38.51:965][433]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 0 (Found bundle for host: 0x60f8b8808d0 [serially])
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 1 (Re-using existing connection #195 with host 192.168.56.122)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 2 (Connected to 192.168.56.122 (192.168.56.122) port 50443 (#195))
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 3 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 5 (Closing connection 195)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 6 (Issue another request to this URL: 'https://192.168.56.122:50443/api/os/info')
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 7 (Found bundle for host: 0x60f8b8808d0 [serially])
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 8 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 9 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 10 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 11 (Failed to connect to 192.168.56.122 port 50443 after 21038 ms: Timed out)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92591E00: libcurl info message cache 12 (Closing connection 201)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 0 (Found bundle for host: 0x60f8b8808d0 [serially])
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 1 (Re-using existing connection #198 with host 192.168.56.122)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 2 (Connected to 192.168.56.122 (192.168.56.122) port 50443 (#198))
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 3 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 5 (Closing connection 198)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 6 (Issue another request to this URL: 'https://192.168.56.122:50443/api/os/info')
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 7 (Found bundle for host: 0x60f8b8808d0 [serially])
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 8 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 9 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 10 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 11 (Failed to connect to 192.168.56.122 port 50443 after 21037 ms: Timed out)
+[2024.01.15-16.41.19:909][101]LogHttp: Warning: 0000060F92594100: libcurl info message cache 12 (Closing connection 202)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: libcurl info message cache 0 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: libcurl info message cache 1 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: libcurl info message cache 2 (Failed to connect to 192.168.56.122 port 50443 after 21040 ms: Timed out)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92590500: libcurl info message cache 3 (Closing connection 204)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 0 (Found bundle for host: 0x60f8b880840 [serially])
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21040 ms: Timed out)
+[2024.01.15-16.41.48:587][187]LogHttp: Warning: 0000060F92595500: libcurl info message cache 5 (Closing connection 205)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: libcurl info message cache 0 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: libcurl info message cache 1 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: libcurl info message cache 2 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: libcurl info message cache 3 (Failed to connect to 192.168.56.122 port 50443 after 21050 ms: Timed out)
+[2024.01.15-16.42.18:587][277]LogHttp: Warning: 0000060F92590A00: libcurl info message cache 4 (Closing connection 206)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 0 (Found bundle for host: 0x60f8b8807b0 [serially])
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21049 ms: Timed out)
+[2024.01.15-16.42.18:588][277]LogHttp: Warning: 0000060F9259F500: libcurl info message cache 5 (Closing connection 207)
+[2024.01.15-16.42.48:590][367]LogHttp: Warning: 0000060F92597800: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 0 (Found bundle for host: 0x60f8b880db0 [serially])
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21061 ms: Timed out)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92597800: libcurl info message cache 5 (Closing connection 209)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: libcurl info message cache 1 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: libcurl info message cache 2 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: libcurl info message cache 3 (Failed to connect to 192.168.56.122 port 50443 after 21062 ms: Timed out)
+[2024.01.15-16.42.48:591][367]LogHttp: Warning: 0000060F92590F00: libcurl info message cache 4 (Closing connection 208)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 0 (Found bundle for host: 0x60f8b8805d0 [serially])
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21053 ms: Timed out)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F92591400: libcurl info message cache 5 (Closing connection 211)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 0 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 1 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 2 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 3 (Failed to connect to 192.168.56.122 port 50443 after 21053 ms: Timed out)
+[2024.01.15-16.43.18:594][457]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 4 (Closing connection 210)
+[2024.01.15-16.43.48:598][547]LogHttp: Warning: 0000060F92598200: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: libcurl info message cache 1 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: libcurl info message cache 2 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: libcurl info message cache 3 (Failed to connect to 192.168.56.122 port 50443 after 21063 ms: Timed out)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92598200: libcurl info message cache 4 (Closing connection 213)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 0 (Found bundle for host: 0x60f8b880510 [serially])
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21063 ms: Timed out)
+[2024.01.15-16.43.48:599][547]LogHttp: Warning: 0000060F92593700: libcurl info message cache 5 (Closing connection 214)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: libcurl info message cache 0 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: libcurl info message cache 1 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: libcurl info message cache 2 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: libcurl info message cache 3 (Failed to connect to 192.168.56.122 port 50443 after 21054 ms: Timed out)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F92594100: libcurl info message cache 4 (Closing connection 215)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: invalid HTTP response code received. URL: https://192.168.56.122:50443/api/os/info, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: request failed, libcurl error: 28 (Timeout was reached)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 0 (Found bundle for host: 0x60f8b880c60 [serially])
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 1 (Hostname 192.168.56.122 was found in DNS cache)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 2 (  Trying 192.168.56.122:50443...)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 3 (connect to 192.168.56.122 port 50443 failed: Timed out)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 4 (Failed to connect to 192.168.56.122 port 50443 after 21054 ms: Timed out)
+[2024.01.15-16.44.18:610][637]LogHttp: Warning: 0000060F9259B400: libcurl info message cache 5 (Closing connection 216)
+[2024.01.15-16.44.21:716][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.15-16.44.21:720][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-16.44.21:787][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86
+[2024.01.15-16.44.21:787][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/EST5A2PJPI7IT68R1XIO86E135FF804F294B91074AFD888447929B.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset'
+[2024.01.15-16.44.21:790][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2024.01.15-16.44.21:791][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/5PI42YRDC8HSSG6BVV2GRRBA11ADBD492871DF56D8C09F799ADFC1.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2024.01.15-16.44.21:794][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96
+[2024.01.15-16.44.21:795][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/IM858T68EBXCBX1T2FNR96087DC1A34B3B652C476272B6FCE32E1C.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.uasset'
+[2024.01.15-16.44.21:798][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.15-16.44.21:799][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5P20EB9A7E46574D33838CF9BE6311A813.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.15-16.44.21:802][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2024.01.15-16.44.21:803][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H8YL2PPHZPBTI74SUD0RNL7932B98D47A126B236F4B1A68A585215.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2024.01.15-16.44.21:806][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.15-16.44.21:807][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Q7Y1URWWFS0TXGWUTO3S61A6E9F7E64A967C54326CD0B5F28A4A7F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.15-16.44.21:810][980]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.15-16.44.21:811][980]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GK06JAEJ82TQ0GA2QB0DJGC04BDC1D46B9B09CC000428B43970CEA.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.15-16.44.21:831][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.12 sec)
+[2024.01.15-16.44.21:840][980]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.15-16.44.21:840][980]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
