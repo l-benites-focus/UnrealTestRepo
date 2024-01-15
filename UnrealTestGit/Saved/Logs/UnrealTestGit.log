@@ -1160,3 +1160,10 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.15-15.05.27:897][857]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
 [2024.01.15-15.05.27:897][857]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.01.15-15.05.27:897][857]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.15-15.09.45:904][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.15-15.09.45:907][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.15-15.09.46:355][416]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.01.15-15.09.46:356][416]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/XWFFRCIJ8QK4NRO30ALA6JAD733E7B4280AE60CFDC569E2906DF02.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.01.15-15.09.46:367][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 459 ms (total: 934 ms)
+[2024.01.15-15.09.46:372][416]AssetCheck: New page: Asset Save: StaticMeshActor_10
+[2024.01.15-15.09.46:372][416]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
