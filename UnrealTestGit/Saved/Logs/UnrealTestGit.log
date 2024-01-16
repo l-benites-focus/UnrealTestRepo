@@ -1456,3 +1456,28 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.16-13.19.48:975][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.01.16-13.19.48:975][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
 [2024.01.16-13.19.48:975][750]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.01.16-13.22.06:491][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.16-13.22.06:498][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-13.22.06:567][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86
+[2024.01.16-13.22.06:567][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/EST5A2PJPI7IT68R1XIO8663C285364CCA2A0148C6D99C5CD009F4.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset'
+[2024.01.16-13.22.06:572][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.16-13.22.06:573][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BEYC27T14FHBU6LF2F60RR70DA5B704B8E29A37BF94BA19ED72E45.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.16-13.22.06:575][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.16-13.22.06:577][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5PE2A9890E4CC926E68D67CEB2545B676D.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.16-13.22.06:581][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.01.16-13.22.06:582][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NG2R9BPZVA7ZDN0Z4VSTG6A49F90954DFEB5963CEBA99F082C9443.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.01.16-13.22.06:585][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2024.01.16-13.22.06:586][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H8YL2PPHZPBTI74SUD0RNL27F3B7E74B76F16D70DB83A376507970.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2024.01.16-13.22.06:589][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.16-13.22.06:590][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Q7Y1URWWFS0TXGWUTO3S612C8EBEAE4B2F9FECE869BCABA2654A60.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.16-13.22.06:593][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+[2024.01.16-13.22.06:594][507]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MRHJREJ6H7USQYWF1KO8F6B21829A84868E1FF0C6AABA8E4E0591F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2024.01.16-13.22.06:605][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.63 sec)
+[2024.01.16-13.22.06:662][507]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.16-13.22.06:662][507]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
