@@ -1950,3 +1950,172 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.16-14.17.14:017][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
 [2024.01.16-14.17.14:017][745]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
 [2024.01.16-14.17.14:017][745]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.01.16-14.35.36:441][215]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:39.641 and deleted 0 files with total size 0 MiB. Scanned 50994 files in 48512 folders with total size 14942 MiB.
+[2024.01.16-15.01.00:585][902]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.01.16-15.01.00:591][902]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.01.16-15.01.00:606][903]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.01.16-15.01.05:986][526]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2024.01.16-15.01.05:993][526]LogContentBrowser: End creating deferred item NewMaterial
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: Total job queries 135, among them cache hits 26 (19.26%)
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: Tracking 109 distinct input hashes that result in 89 distinct outputs (81.65%)
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.16-15.01.06:198][533]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.01.07:320][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.01.16-15.01.08:419][629]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.16-15.01.08:450][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.01.16-15.01.08:460][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.16-15.01.08:471][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.16-15.05.26:924][152]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.16-15.05.29:438][415]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.16-15.05.29:438][415]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2024.01.16-15.05.29:443][415]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_UAID_B06EBFBDC5D126D001_1252168501
+[2024.01.16-15.05.29:443][415]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_UAID_B06EBFBDC5D126D001_1252168501
+[2024.01.16-15.05.29:522][416]LogSlate: Took 0.005125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.01.16-15.05.52:154][803]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.16-15.06.35:106][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.16-15.06.35:108][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-15.06.35:174][330]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/12/BTS0N42PIF3APDA1JD6CY3
+[2024.01.16-15.06.35:174][330]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BTS0N42PIF3APDA1JD6CY3EAC8F9C548C2A70A259A19A7F470A745.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/12/BTS0N42PIF3APDA1JD6CY3.uasset'
+[2024.01.16-15.06.35:184][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 3.41 sec)
+[2024.01.16-15.06.35:188][330]AssetCheck: New page: Asset Save: DirectionalLight_UAID_B06EBFBDC5D126D001_1252168501
+[2024.01.16-15.06.35:188][330]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_UAID_B06EBFBDC5D126D001_1252168501
+[2024.01.16-15.35.47:072][808]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:50.267 and deleted 0 files with total size 0 MiB. Scanned 57219 files in 53718 folders with total size 16777 MiB.
+[2024.01.16-15.37.14:521][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.16-15.37.15:335][809]LogSlate: Window 'Save Content' being destroyed
+[2024.01.16-15.37.15:346][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-15.37.15:409][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.16-15.37.15:410][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GK06JAEJ82TQ0GA2QB0DJGF154C79842851EB8839C35A0C8400515.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.16-15.37.15:413][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.01.16-15.37.15:414][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NG2R9BPZVA7ZDN0Z4VSTG64B9BEEBD4136520E8D449C8D94D7B83F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.01.16-15.37.15:417][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+[2024.01.16-15.37.15:418][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/JNKFA4X9LRMSF343ESPF6QF44B101C4460DBF1F6234B92699B4535.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2024.01.16-15.37.15:422][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2024.01.16-15.37.15:423][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H8YL2PPHZPBTI74SUD0RNL26BD15B0479CC8DD17ED0083EAFD730A.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2024.01.16-15.37.15:427][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2
+[2024.01.16-15.37.15:428][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/O43ETCZTFMLWWH1CJ941H2942A521F485AFA1E3DAC9EB4E91D3B9F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset'
+[2024.01.16-15.37.15:431][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.16-15.37.15:432][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5P454C02EA4F1845AD7E07699E42A3673F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.16-15.37.15:435][809]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C
+[2024.01.16-15.37.15:436][809]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/6B9RJI3FDPCETRKXUXCQ4C5FFA1BC54B4AED3009773F8B52FA426B.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset'
+[2024.01.16-15.37.15:447][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.51 sec)
+[2024.01.16-15.37.15:519][809]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.01.16-15.37.15:519][809]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.16-15.37.15:519][809]LightingResults: New page: Lighting Build
+[2024.01.16-15.37.15:519][809]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.01.16-15.37.15:544][809]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.16-15.37.15:544][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.16-15.37.15:549][809]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.01.16-15.37.15:549][809]MapCheck: New page: Map Check
+[2024.01.16-15.37.15:549][809]LightingResults: New page: Lighting Build
+[2024.01.16-15.37.15:558][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.16-15.37.15:561][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.16-15.37.15:563][809]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.01.16-15.37.15:563][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.16-15.37.15:571][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.16-15.37.15:579][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.16-15.37.15:586][809]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.01.16-15.37.15:586][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.16-15.37.15:587][809]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.01.16-15.37.15:588][809]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.16-15.37.15:588][809]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.16-15.37.15:588][809]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.16-15.37.15:926][809]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.01.16-15.37.15:926][809]LogWorldPartition: Display: WorldPartition initialize took 338 ms (total: 4.51 sec)
+[2024.01.16-15.37.16:484][809]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.16-15.37.16:929][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.01.16-15.37.16:937][809]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.16-15.37.16:937][809]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,898ms to complete.
+[2024.01.16-15.37.16:937][809]LogFileHelpers: Loading map 'OpenWorldOmg' took 1.419
+[2024.01.16-15.37.16:965][809]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: Total job queries 137, among them cache hits 28 (20.44%)
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: Tracking 109 distinct input hashes that result in 89 distinct outputs (81.65%)
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: RAM used: 0.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.16-15.37.17:303][809]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.37.17:310][809]LogSlate: Took 0.005282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.16-15.37.19:769][927]LogSlate: Took 0.010543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.01.16-15.37.21:578][119]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.16-15.37.22:475][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.16-15.37.23:690][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.16-15.37.30:266][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.01.16-15.37.30:269][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-15.37.30:324][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI
+[2024.01.16-15.37.30:325][  1]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/A0IDJHTCM8RXQOICFC2JDIDBA24E184D3D30E621246DB5F189F0B0.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset'
+[2024.01.16-15.37.30:327][  1]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO
+[2024.01.16-15.37.30:328][  1]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/JWLQYW6YQM6X637C3OT4SO93A1B8C34B6B4EB5BCBCA4B280F820AC.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset'
+[2024.01.16-15.37.30:356][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.60 sec)
+[2024.01.16-15.37.30:359][  1]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.16-15.37.30:359][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D119D001_1302998207
+[2024.01.16-15.37.30:359][  1]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1305475791
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: Total job queries 151, among them cache hits 36 (23.84%)
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 94 distinct outputs (81.74%)
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: RAM used: 0.95 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.16-15.43.04:350][692]LogShaderCompilers: Display: ================================================
+[2024.01.16-15.43.05:655][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.16-15.43.05:736][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.01.16-15.43.05:736][821]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.16-15.43.05:736][821]LightingResults: New page: Lighting Build
+[2024.01.16-15.43.05:736][821]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.01.16-15.43.05:793][821]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.01.16-15.43.05:793][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.16-15.43.05:798][821]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.01.16-15.43.05:798][821]MapCheck: New page: Map Check
+[2024.01.16-15.43.05:798][821]LightingResults: New page: Lighting Build
+[2024.01.16-15.43.05:810][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.16-15.43.05:821][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.16-15.43.05:826][821]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.16-15.43.05:826][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.16-15.43.05:836][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.16-15.43.05:842][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.01.16-15.43.05:851][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.01.16-15.43.05:852][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.16-15.43.05:852][821]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.16-15.43.05:852][821]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.16-15.43.05:852][821]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.16-15.43.05:852][821]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.16-15.43.05:899][821]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.01.16-15.43.05:899][821]LogWorldPartition: Display: WorldPartition initialize took 46 ms (total: 4.55 sec)
+[2024.01.16-15.43.05:920][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.16-15.43.05:931][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.16-15.43.05:940][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.16-15.43.05:940][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,312ms to complete.
+[2024.01.16-15.43.05:940][821]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.205
+[2024.01.16-15.43.20:512][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.16-15.43.20:515][460]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-15.43.20:617][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86
+[2024.01.16-15.43.20:618][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/EST5A2PJPI7IT68R1XIO8639A6427F4A6C22D0DFD2BEA5ADB4A7CC.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset'
+[2024.01.16-15.43.20:621][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.16-15.43.20:621][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BEYC27T14FHBU6LF2F60RR774487364449A4C0F53BCA8C36107D86.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.16-15.43.20:624][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.16-15.43.20:625][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5P14E296634D337FBBEE6DEB8157ADAA71.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.16-15.43.20:628][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.01.16-15.43.20:629][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NG2R9BPZVA7ZDN0Z4VSTG6389B38E24A51EE976002B995E5F7E7CA.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.01.16-15.43.20:632][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL
+[2024.01.16-15.43.20:633][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H8YL2PPHZPBTI74SUD0RNL267EE43B46A8C5152FE818B9A9FEE9DA.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset'
+[2024.01.16-15.43.20:636][460]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.16-15.43.20:636][460]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GK06JAEJ82TQ0GA2QB0DJG2AB82678467AF8F464A71EAC9B7664DC.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.16-15.43.20:646][460]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 3.73 sec)
+[2024.01.16-15.43.20:648][460]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.16-15.43.20:648][460]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
