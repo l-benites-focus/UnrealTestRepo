@@ -1200,3 +1200,40 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.16-09.26.39:420][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 729 ms)
 [2024.01.16-09.26.39:426][413]AssetCheck: New page: Asset Save: StaticMeshActor_11
 [2024.01.16-09.26.39:426][413]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.16-09.28.11:059][974]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Digital Audio (S/PDIF) (High Definition Audio Device), InstanceID=1
+[2024.01.16-09.28.11:170][974]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20876
+[2024.01.16-09.28.11:506][975]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f29df9b9-aea5-498d-9684-66f2f98aa4cc}, Name=Digital Audio (S/PDIF) (High Definition Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=33.78
+[2024.01.16-09.28.11:506][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.16-09.28.11:508][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.16-09.42.10:659][493]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.16-09.42.10:961][493]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20876
+[2024.01.16-09.42.11:013][494]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3} Name=PLX2783H (NVIDIA High Definition Audio))
+[2024.01.16-09.42.11:090][494]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.16-09.42.11:255][494]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.01.16-09.42.11:964][496]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3}, Name=PLX2783H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.64
+[2024.01.16-09.42.11:964][496]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.01.16-09.42.11:968][496]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.01.16-09.44.42:713][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.16-09.44.42:718][404]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1
+[2024.01.16-09.44.42:718][404]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BEYC27T14FHBU6LF2F60RR_Auto1C32883094681C0495E067FBDDBECE978.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR_Auto1.uasset'
+[2024.01.16-09.44.42:720][404]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.01.16-09.44.42:720][404]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2024.01.16-09.47.37:079][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.16-09.47.37:083][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.16-09.47.37:148][264]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86
+[2024.01.16-09.47.37:148][264]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/EST5A2PJPI7IT68R1XIO8675AB5FD54A4C05AAB59A3CBB107A9F80.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset'
+[2024.01.16-09.47.37:151][264]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.16-09.47.37:152][264]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BEYC27T14FHBU6LF2F60RRB8B8C49841AC6BDA8FF11BB28E4D99F7.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.16-09.47.37:155][264]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.16-09.47.37:156][264]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5PE76D282C456D338F074187A06912E3FD.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.16-09.47.37:159][264]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.16-09.47.37:159][264]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Q7Y1URWWFS0TXGWUTO3S611875CAB141A938BC0909ED87A9AA28A2.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.16-09.47.37:162][264]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8
+[2024.01.16-09.47.37:163][264]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BBOCKSZY1GVHTFRX0PR0O87FF74DED40356BC10B5F1F816D155506.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset'
+[2024.01.16-09.47.37:183][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 829 ms)
+[2024.01.16-09.47.37:186][264]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.16-09.47.37:186][264]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
+[2024.01.16-09.47.37:186][264]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.16-09.47.37:186][264]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.16-09.47.37:186][264]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.16-09.47.37:186][264]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16
