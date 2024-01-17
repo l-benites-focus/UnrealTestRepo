@@ -1192,3 +1192,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-13.42.01:879][131]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.17-13.42.01:879][131]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
 [2024.01.17-13.42.01:879][131]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.17-13.46.42:537][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.01.17-13.46.42:540][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-13.46.42:651][273]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P
+[2024.01.17-13.46.42:651][273]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/OTJMGDDXDV5TI7982YKZ5P67D4C7374ADFD9338E11F5893E745D53.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.uasset'
+[2024.01.17-13.46.42:654][273]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.17-13.46.42:655][273]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GK06JAEJ82TQ0GA2QB0DJG7B5CFA0D40F05A5F1DBAD88BAB61C77E.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.17-13.46.42:673][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 684 ms)
+[2024.01.17-13.46.42:676][273]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-13.46.42:676][273]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.17-13.46.42:676][273]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
