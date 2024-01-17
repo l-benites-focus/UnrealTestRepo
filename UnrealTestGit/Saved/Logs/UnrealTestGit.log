@@ -1540,3 +1540,31 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-15.04.39:434][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
 [2024.01.17-15.04.39:434][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.01.17-15.04.39:434][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13
+[2024.01.17-15.05.59:117][383]Cmd: DELETE
+[2024.01.17-15.05.59:117][383]Cmd: ACTOR DELETE
+[2024.01.17-15.05.59:119][383]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.17-15.05.59:127][383]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.PackageMetaData in its package
+[2024.01.17-15.05.59:128][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.17-15.05.59:129][383]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2024.01.17-15.05.59:138][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.17-15.06.00:399][525]Cmd: DELETE
+[2024.01.17-15.06.00:399][525]Cmd: ACTOR DELETE
+[2024.01.17-15.06.00:401][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.01.17-15.06.00:409][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.01.17-15.06.00:410][525]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.01.17-15.06.06:083][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.17-15.06.06:088][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-15.06.06:186][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.01.17-15.06.06:194][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.17-15.06.06:201][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.01.17-15.06.06:204][170]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y
+[2024.01.17-15.06.06:204][170]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/9BWDWCNL7OZT2HTML9LK1Y11967D8D46B64440CF99AA9753E5B775.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset'
+[2024.01.17-15.06.06:206][170]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+[2024.01.17-15.06.06:207][170]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BY1DA5CRGQSAMOTK8RA8KR80B0454F463EA97AE648DCAE0B3BA75E.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2024.01.17-15.06.06:210][170]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG
+[2024.01.17-15.06.06:211][170]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GK06JAEJ82TQ0GA2QB0DJG3799549146896961693CE9A7D13A886F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset'
+[2024.01.17-15.06.06:230][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 3.11 sec)
+[2024.01.17-15.06.06:233][170]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-15.06.06:233][170]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13
+[2024.01.17-15.06.06:233][170]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.01.17-15.06.06:233][170]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
