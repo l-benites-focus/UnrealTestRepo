@@ -1143,3 +1143,94 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-09.07.48:515][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
 [2024.01.17-09.07.48:515][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
 [2024.01.17-09.07.48:515][604]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.17-09.11.16:506][112]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2024.01.17-09.11.16:529][112]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.11.16:624][112]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.01.17-09.11.16:841][112]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.17-09.11.16:841][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.17-09.11.16:841][112]MaterialEditorStats: Shader Count: 0
+[2024.01.17-09.11.16:862][112]LogSlate: Took 0.008156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.01.17-09.11.16:868][112]LogViewport: Scene viewport resized to 242x264, mode Windowed.
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: ================================================
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Total job queries 3689, among them cache hits 17 (0.46%)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Tracking 3664 distinct input hashes that result in 2621 distinct outputs (71.53%)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: RAM used: 25.43 MB (0.02 GB) of 1638.40 MB (1.60 GB) budget. Usage: 1.55%
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Shaders Compiled: 3664
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Jobs assigned 3672, completed 3664 (99.78%)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Average time worker was idle: 5.57 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Time job spent in pending queue: average 143.36 s, longest 302.37 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Job execution time: average 7.36 s, max 25.64 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Job life time (pending + execution): average 151.04 s, max 303.90
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 323.15 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Jobs were issued in 453 batches (only local compilation was used), average 8.11 jobs/batch
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Average processing rate: 11.34 jobs/sec
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Total thread time: 2760.13 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Total thread preprocess time: 153.29 s
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Percentage time preprocessing: 5.55%
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Effective parallelization: 8.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 6.35 sec, max 7.64 sec, min 4.46 sec)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.70 sec, max 10.08 sec, min 2.23 sec)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 2.43 sec, max 4.10 sec, min 1.53 sec)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 2.08 sec, max 3.16 sec, min 1.82 sec)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.93 sec, max 3.50 sec, min 0.34 sec)
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.17-09.11.17:015][113]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.30% of total time (compiled  150 times, average 2.08 sec, max 3.16 sec, min 1.82 sec)
+[2024.01.17-09.11.17:016][113]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.08% of total time (compiled  128 times, average 0.88 sec, max 1.36 sec, min 0.53 sec)
+[2024.01.17-09.11.17:016][113]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 3.85% of total time (compiled  128 times, average 0.83 sec, max 1.07 sec, min 0.66 sec)
+[2024.01.17-09.11.17:016][113]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 3.85% of total time (compiled  128 times, average 0.83 sec, max 1.20 sec, min 0.63 sec)
+[2024.01.17-09.11.17:016][113]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.84% of total time (compiled   96 times, average 1.10 sec, max 1.76 sec, min 0.50 sec)
+[2024.01.17-09.11.17:016][113]LogShaderCompilers: Display: ================================================
+[2024.01.17-09.11.17:075][114]MaterialEditorStats: Base pass shader: 217 instructions
+[2024.01.17-09.11.17:075][114]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2024.01.17-09.11.17:075][114]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.17-09.11.17:075][114]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.17-09.11.17:075][114]MaterialEditorStats: Shader Count: 4
+[2024.01.17-09.11.17:239][117]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.17-09.11.18:745][190]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2024.01.17-09.11.18:751][190]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2024.01.17-09.11.18:762][190]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.11.18:762][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.11.19:426][247]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial
+[2024.01.17-09.11.19:430][247]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.17-09.11.19:551][247]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.17-09.11.19:551][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.17-09.11.19:551][247]MaterialEditorStats: Shader Count: 0
+[2024.01.17-09.11.19:557][247]LogViewport: Scene viewport resized to 242x264, mode Windowed.
+[2024.01.17-09.11.20:522][297]MaterialEditorStats: Base pass shader: 217 instructions
+[2024.01.17-09.11.20:522][297]MaterialEditorStats: Base pass vertex shader: 255 instructions
+[2024.01.17-09.11.20:522][297]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.17-09.11.20:522][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.17-09.11.20:522][297]MaterialEditorStats: Shader Count: 4
+[2024.01.17-09.11.22:756][449]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2024.01.17-09.11.22:766][449]LogSlate: Window 'BasicShapeMaterial' being destroyed
+[2024.01.17-09.11.22:774][449]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.17-09.11.22:774][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.17-09.11.34:806][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.17-09.11.35:252][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.17-09.11.35:657][730]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.17-09.11.38:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.01.17-09.11.38:038][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.11.38:127][  0]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86
+[2024.01.17-09.11.38:128][  0]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/EST5A2PJPI7IT68R1XIO8623A4E5A04F28733E9A30D783BEEC34DF.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LT/EST5A2PJPI7IT68R1XIO86.uasset'
+[2024.01.17-09.11.38:151][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 250 ms)
+[2024.01.17-09.11.38:154][  0]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
+[2024.01.17-09.11.38:154][  0]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D107CC01_1215372815
+[2024.01.17-09.11.43:864][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.01.17-09.11.43:868][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-09.11.43:923][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR
+[2024.01.17-09.11.43:924][640]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/5PI42YRDC8HSSG6BVV2GRR45CBA7E04D52C83175A0F9B2599DFAF7.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.uasset'
+[2024.01.17-09.11.43:927][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR
+[2024.01.17-09.11.43:928][640]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BEYC27T14FHBU6LF2F60RR3174D5D4467B8BF8924E24A7B0AB47AB.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset'
+[2024.01.17-09.11.43:932][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61
+[2024.01.17-09.11.43:933][640]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/Q7Y1URWWFS0TXGWUTO3S6175E5283B4EF807FE580387A41BACB0C2.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset'
+[2024.01.17-09.11.43:935][640]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+[2024.01.17-09.11.43:936][640]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MRHJREJ6H7USQYWF1KO8F6982524634914AD43AD3CECA359436E34.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2024.01.17-09.11.43:944][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 326 ms)
+[2024.01.17-09.11.43:950][640]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-09.11.43:950][640]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15
+[2024.01.17-09.11.43:950][640]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+[2024.01.17-09.11.43:950][640]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.01.17-09.11.43:950][640]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
