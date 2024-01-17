@@ -1202,3 +1202,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.17-13.46.42:676][273]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.17-13.46.42:676][273]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3
 [2024.01.17-13.46.42:676][273]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: ================================================
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: Total job queries 122, among them cache hits 15 (12.30%)
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: Tracking 107 distinct input hashes that result in 88 distinct outputs (82.24%)
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: RAM used: 0.90 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.17-13.48.02:998][715]LogShaderCompilers: Display: ================================================
+[2024.01.17-13.48.06:284][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.01.17-13.48.06:287][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.17-13.48.06:391][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J
+[2024.01.17-13.48.06:391][ 74]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/XWFFRCIJ8QK4NRO30ALA6J403E24D742C16E0280A927A046A49B9F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset'
+[2024.01.17-13.48.06:393][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.01.17-13.48.06:394][ 74]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NG2R9BPZVA7ZDN0Z4VSTG6B28D3FEE474D41F1FD0E61B5BFFFE61F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.01.17-13.48.06:397][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8
+[2024.01.17-13.48.06:398][ 74]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/BBOCKSZY1GVHTFRX0PR0O86DB76AC44B04927B86E7DB8F6F58FE92.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.uasset'
+[2024.01.17-13.48.06:408][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 806 ms)
+[2024.01.17-13.48.06:414][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.17-13.48.06:414][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_10
+[2024.01.17-13.48.06:414][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+[2024.01.17-13.48.06:414][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16
