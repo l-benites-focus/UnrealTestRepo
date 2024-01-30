@@ -1216,3 +1216,80 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.01.30-09.14.58:729][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2024.01.30-09.15.01:353][715]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2024.01.30-09.15.04:121][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.01.30-09.16.25:101][191]LogHoloLensTargetPlatform: Warning: HoloLens device automatic connect attempt denied (http response code 401). Perhaps the user or password is wrong? Use 'add unlisted device' to connect.
+[2024.01.30-09.16.25:101][191]LogHoloLensTargetPlatform: Warning: HoloLens device automatic connect attempt denied (http response code 401). Perhaps the user or password is wrong? Use 'add unlisted device' to connect.
+[2024.01.30-09.28.34:456][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.30-09.28.34:523][812]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.01.30-09.28.34:523][812]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.30-09.28.34:523][812]LightingResults: New page: Lighting Build
+[2024.01.30-09.28.34:523][812]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.01.30-09.28.34:566][812]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.30-09.28.34:566][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.30-09.28.34:572][812]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.01.30-09.28.34:573][812]MapCheck: New page: Map Check
+[2024.01.30-09.28.34:573][812]LightingResults: New page: Lighting Build
+[2024.01.30-09.28.34:584][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.30-09.28.34:594][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.30-09.28.34:596][812]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.01.30-09.28.34:596][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.30-09.28.34:604][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.30-09.28.34:612][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.30-09.28.34:618][812]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.01.30-09.28.34:618][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.30-09.28.34:618][812]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.01.30-09.28.34:619][812]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.30-09.28.34:619][812]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.30-09.28.34:619][812]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.30-09.28.34:889][812]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.01.30-09.28.34:889][812]LogWorldPartition: Display: WorldPartition initialize took 271 ms (total: 4.93 sec)
+[2024.01.30-09.28.35:403][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.30-09.28.35:509][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.30-09.28.35:513][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.30-09.28.35:514][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,016ms to complete.
+[2024.01.30-09.28.35:515][812]LogFileHelpers: Loading map 'OpenWorldOmg' took 0.992
+[2024.01.30-09.28.35:685][812]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.28.35:685][812]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Total job queries 179, among them cache hits 38 (21.23%)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Tracking 141 distinct input hashes that result in 111 distinct outputs (78.72%)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: RAM used: 1.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Shaders Compiled: 10
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Average time worker was idle: 0.06 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Time job spent in pending queue: average 0.16 s, longest 1.27 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Job execution time: average 1.36 s, max 1.86 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Job life time (pending + execution): average 1.51 s, max 1.90
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.98 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Average processing rate: 3.36 jobs/sec
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Total thread time: 6.47 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Total thread preprocess time: 0.42 s
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Percentage time preprocessing: 6.43%
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Effective parallelization: 2.17 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.76% of total time (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.83% of total time (compiled    1 times, average 0.96 sec, max 0.96 sec, min 0.96 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 14.54% of total time (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                                  FHitProxyVS - 13.56% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.56% of total time (compiled    1 times, average 0.88 sec, max 0.88 sec, min 0.88 sec)
+[2024.01.30-09.28.35:686][812]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.28.37:071][862]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.28.38:787][ 45]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.28.40:497][222]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.28.43:266][524]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.28.47:768][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.01.30-09.28.47:772][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.30-09.28.47:814][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL
+[2024.01.30-09.28.47:815][  5]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/RU35BI4RX7IIFMZKKHLPPL4FE6338C4738B24A19E4BD9A068E0C6C.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL.uasset'
+[2024.01.30-09.28.47:817][  5]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO
+[2024.01.30-09.28.47:818][  5]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/18CJ44WY2738P3TC37NIFOB233211943BFEFD74CBB7D8ED4E0F30E.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO.uasset'
+[2024.01.30-09.28.47:849][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 283 ms)
+[2024.01.30-09.28.47:854][  5]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.30-09.28.47:854][  5]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1306183792
+[2024.01.30-09.28.47:854][  5]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1307659793
