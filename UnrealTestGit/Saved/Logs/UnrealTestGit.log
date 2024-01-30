@@ -1159,3 +1159,60 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.01.30-08.55.23:654][784]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2024.01.30-08.55.24:026][818]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2024.01.30-08.55.24:325][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-08.56.30:448][885]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:11.818 and deleted 0 files with total size 0 MiB. Scanned 69295 files in 63001 folders with total size 17388 MiB.
+[2024.01.30-09.14.11:126][132]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.11:598][182]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.11:946][221]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.12:170][241]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.14:000][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.16:280][692]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.14.19:184][992]LogSlate: Took 0.000410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: Total job queries 155, among them cache hits 31 (20.00%)
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 99 distinct outputs (79.84%)
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.01.30-09.14.20:147][ 43]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.30-09.14.20:148][ 43]LogShaderCompilers: Display: ================================================
+[2024.01.30-09.14.35:740][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.30-09.14.35:744][719]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.30-09.14.35:820][719]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/3/X2/K3VPUG6XF7DINHTYAGFDI3
+[2024.01.30-09.14.35:820][719]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/K3VPUG6XF7DINHTYAGFDI36906C4FB4B1B05A6C1C9688A8DE2C4AA.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/X2/K3VPUG6XF7DINHTYAGFDI3.uasset'
+[2024.01.30-09.14.35:872][719]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 205 ms)
+[2024.01.30-09.14.35:878][719]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_B06EBFBDC5D177D401_2110260975
+[2024.01.30-09.14.35:878][719]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D177D401_2110260975
+[2024.01.30-09.14.53:582][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.30-09.14.53:646][902]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.01.30-09.14.53:646][902]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.30-09.14.53:646][902]LightingResults: New page: Lighting Build
+[2024.01.30-09.14.53:646][902]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.01.30-09.14.53:684][902]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.01.30-09.14.53:685][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.30-09.14.53:689][902]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.01.30-09.14.53:689][902]MapCheck: New page: Map Check
+[2024.01.30-09.14.53:689][902]LightingResults: New page: Lighting Build
+[2024.01.30-09.14.53:699][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.30-09.14.53:714][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.01.30-09.14.53:718][902]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.30-09.14.53:718][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.30-09.14.53:727][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.30-09.14.53:735][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.30-09.14.53:743][902]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.01.30-09.14.53:743][902]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.30-09.14.53:743][902]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.01.30-09.14.53:744][902]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.30-09.14.53:744][902]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.30-09.14.53:744][902]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.30-09.14.53:949][902]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.01.30-09.14.53:949][902]LogWorldPartition: Display: WorldPartition initialize took 205 ms (total: 4.66 sec)
+[2024.01.30-09.14.53:978][902]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.30-09.14.53:989][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.30-09.14.53:994][902]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.30-09.14.53:995][902]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,511ms to complete.
+[2024.01.30-09.14.53:995][902]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.349
+[2024.01.30-09.14.58:729][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.15.01:353][715]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.01.30-09.15.04:121][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
