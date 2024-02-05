@@ -1183,3 +1183,97 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.02.05-11.22.07:233][799]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12
 [2024.02.05-11.22.07:233][799]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
 [2024.02.05-11.22.07:233][799]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20
+[2024.02.05-11.47.19:544][445]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:11.325 and deleted 0 files with total size 0 MiB. Scanned 69305 files in 63011 folders with total size 17388 MiB.
+[2024.02.05-11.47.59:964][567]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.05-11.48.00:226][567]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4460
+[2024.02.05-11.48.00:569][568]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d41bdcc4-4bc4-4344-a962-096a5508e0d5}, Name=Casque pour téléphone (Jabra EVOLVE 30 II)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=36.45
+[2024.02.05-11.48.00:569][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.05-11.48.00:576][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.05-12.47.19:478][244]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:11.258 and deleted 561 files with total size 3 MiB. Scanned 69305 files in 63011 folders with total size 17388 MiB.
+[2024.02.05-12.57.58:567][160]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DigitalOutput (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.05-12.57.58:594][160]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4460
+[2024.02.05-12.57.58:920][161]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f8d1d3df-91cf-478f-99b9-ad1ba6628e39} Name=DigitalOutput (NVIDIA High Definition Audio))
+[2024.02.05-12.57.58:969][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.05-12.57.59:198][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=DigitalOutput (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.05-12.57.59:591][163]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f8d1d3df-91cf-478f-99b9-ad1ba6628e39}, Name=DigitalOutput (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=46.05
+[2024.02.05-12.57.59:591][163]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.05-12.57.59:592][163]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.05-13.24.16:147][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.02.05-13.24.16:311][113]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.02.05-13.24.16:312][113]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.05-13.24.16:312][113]LightingResults: New page: Lighting Build
+[2024.02.05-13.24.16:313][113]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.02.05-13.24.16:327][113]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-13.24.16:327][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-13.24.16:336][113]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.02.05-13.24.16:338][113]MapCheck: New page: Map Check
+[2024.02.05-13.24.16:338][113]LightingResults: New page: Lighting Build
+[2024.02.05-13.24.16:346][113]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.05-13.24.16:367][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.05-13.24.16:370][113]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.02.05-13.24.16:370][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.05-13.24.16:378][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.05-13.24.16:386][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.02.05-13.24.16:396][113]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.02.05-13.24.16:396][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.05-13.24.16:397][113]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.02.05-13.24.16:398][113]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.02.05-13.24.16:398][113]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.05-13.24.16:398][113]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.02.05-13.24.17:659][113]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.02.05-13.24.17:659][113]LogWorldPartition: Display: WorldPartition initialize took 1.26 sec (total: 4.38 sec)
+[2024.02.05-13.24.18:196][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.05-13.24.18:314][113]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.02.05-13.24.20:625][113]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049390s
+[2024.02.05-13.24.20:655][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.05-13.24.20:666][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.05-13.24.20:667][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,967ms to complete.
+[2024.02.05-13.24.20:667][113]LogFileHelpers: Loading map 'OpenWorldOmg' took 4.355
+[2024.02.05-13.24.20:679][113]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003739s (0.101650s overbudget)
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: ================================================
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: Total job queries 139, among them cache hits 21 (15.11%)
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: Tracking 118 distinct input hashes that result in 94 distinct outputs (79.66%)
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: RAM used: 0.97 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.02.05-13.24.20:905][113]LogShaderCompilers: Display: ================================================
+[2024.02.05-13.24.23:269][179]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.05-13.24.24:784][301]LogSlate: Took 0.009040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.02.05-13.24.27:405][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.02.05-13.24.39:763][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.02.05-13.24.39:771][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.05-13.24.39:850][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/E/TI/RWL2ZBQXPQ45RGVRC5JB6O
+[2024.02.05-13.24.39:852][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/RWL2ZBQXPQ45RGVRC5JB6OC68ADF9945B71C1B93F8018364E81ABD.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/TI/RWL2ZBQXPQ45RGVRC5JB6O.uasset'
+[2024.02.05-13.24.39:856][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/2/J5/1WQ6TLP09CJ66I1U9L334A
+[2024.02.05-13.24.39:858][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/1WQ6TLP09CJ66I1U9L334AD8E1D8D7461747206DB2D5986A0F49E5.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/J5/1WQ6TLP09CJ66I1U9L334A.uasset'
+[2024.02.05-13.24.39:863][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/5/KW/N3QKCM6FEPTDB3W1TF4M8Y
+[2024.02.05-13.24.39:864][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/N3QKCM6FEPTDB3W1TF4M8Y5C61773244AF6CD64C9CE5A433E13B16.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/KW/N3QKCM6FEPTDB3W1TF4M8Y.uasset'
+[2024.02.05-13.24.39:868][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/B/C1/SY0UIOBLMJT6HGYITL5I1A
+[2024.02.05-13.24.39:869][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/SY0UIOBLMJT6HGYITL5I1AB39440C94528CDFE1C3CBD905CDABB9F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/C1/SY0UIOBLMJT6HGYITL5I1A.uasset'
+[2024.02.05-13.24.39:875][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI
+[2024.02.05-13.24.39:876][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/A0IDJHTCM8RXQOICFC2JDI4BEC23234D6791ED310F3E876688E001.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset'
+[2024.02.05-13.24.39:880][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05
+[2024.02.05-13.24.39:881][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GA1EN5BON9BK19IQ3JRM05C04579914480148BA6B1A8B5FB3F1D61.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset'
+[2024.02.05-13.24.39:886][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO
+[2024.02.05-13.24.39:888][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/JWLQYW6YQM6X637C3OT4SO116E36994F4911DF772AD99B713EAF45.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset'
+[2024.02.05-13.24.39:893][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/2/LT/YTRLI0VQSFTTK951IG9PRD
+[2024.02.05-13.24.39:895][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/YTRLI0VQSFTTK951IG9PRD7AE23B094C370BE3DB76B49F542F7623.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/LT/YTRLI0VQSFTTK951IG9PRD.uasset'
+[2024.02.05-13.24.39:899][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL
+[2024.02.05-13.24.39:901][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/RU35BI4RX7IIFMZKKHLPPL782274104BFAF3229A3119BE7F72594D.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL.uasset'
+[2024.02.05-13.24.39:923][973]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO
+[2024.02.05-13.24.39:925][973]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/18CJ44WY2738P3TC37NIFO17351D5D4F6449C440A216B63FBAD272.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO.uasset'
+[2024.02.05-13.24.39:950][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 482 ms)
+[2024.02.05-13.24.39:955][973]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D16ED501_1464280449
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D16ED501_1463021448
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D16ED501_1461524447
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1305475791
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1308775794
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D119D001_1302998207
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1311002796
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1307659793
+[2024.02.05-13.24.39:956][973]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1306183792
