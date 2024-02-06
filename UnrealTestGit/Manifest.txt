@@ -1,15 +1,327 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-02-06T13:27:41.000+00:00",
-  "id": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
+  "date": "2024-02-06T13:34:32.000+00:00",
+  "id": "52ca606f6f2762f878cf23adc675f69cbe79a386",
   "comment": "PushTest",
   "modifications": [
     {
       "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CR/N7GEX64N1B5TA90AYHE5PF.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FU/NYPN49O1EAMBL80OTFJN3O.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5F/280A0XOOUKXYKDVCPM1E00.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9J/DC2PRYWM53QQCN9ACUC3K3.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WP/8Q8OVCI7NY2YZZLIXKNX75.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5Q/HTO69L83AT0SKJHD4APNYD.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/4Q/GZX8ZUYLL465ZUE541TNQ0.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/9FQ38NBKICDTKFSS19YNT2.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PD/2WTJJT6DIDMVT3SFZ3F9O1.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RA/BO8ZLSYG5T76GDQZ0M9HU9.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UF/ZRSLWUSOMZDWBGBRHW1LAE.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U1/RR31W7FAJ4WLQ84LY1X9RF.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0D/03OZ0YKUTMXMTFTPLBGJS4.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZL/SKFB59AA22RVLU9CGK1LFP.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JV/91I9TJ6FNKS7Q54FCV304D.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CG/CU5KNS66RUR880CX4IAXOF.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TP/9ZM5TCHM624N5GOQVBT5NC.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NZ/Y6BTOAUGO3ZMHTAFAMY461.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9I/OTV7YI0U1ND6UGPQOH8O7M.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7N/JRMUPD2R573JK9X62PNAOC.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6Y/60SH74LJ5N24676EE20GI2.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/U9N828NM1XUYSLH0ZMOSHA.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0I/4HTJBDBUVLMR84I5USTSVY.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6W/8YHIHU84J16O2H54KAINSX.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XR/88C5OKKP92LHN2U96OZML0.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1X/DW454NWSGSY9J8PCUYVVSX.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2J/DL8JN30SKX3PZUELHFR86X.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JJ/MAAPYJ3KYHYH7OIR65E0XV.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Q3/K77H3R6ZEJHWXYIRNIQ9OJ.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/R7/PO4GQISPP3DI94KS430QXM.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XQ/XY0BI3RF5KJ20Y52CRVGZN.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/17/2SPCHEIFFQEMX0RBAHXTJE.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Y/I7DEDF5832A9VW8I9YKLSW.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DL/ZOKZFWZTGEVFARJ5KM1VLM.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PA/AXCQ3XT62NCOE8FBQ7VZC9.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SZ/4ZKBYFXQ5BDOCNTYSGKF5Z.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1I/2RMZKQ6CFQNMGGCLVDB8UA.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/55/A97ANLOY4YZJ3L6MPGIMSN.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Manifest.txt",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
-      "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
-      "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RM/HXWD3NLGBAA3R61LMFTXVR.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/73/ZG9RYWVCDPFC7NT3E17K0L.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/1A/AP15QSEO4BBONASFCWPWZG.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/W3/CW2OC1RVLR4QG4QAPH92JQ.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/85/BK44K5QMO3LDRH7Y0T6W6N.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/Z1/WJY88LOVWLVB9HTIFD2XVK.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/5X/2LZMAXPYI0HHXHCL854UDF.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BW/R2FIBNYWAQTOIFKG6SHAA7.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/8P/OUG1WZPQSJAIYF1J6XC0OS.uasset",
+      "edition": "52ca606f6f2762f878cf23adc675f69cbe79a386",
+      "previousEdition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa"
     },
     {
       "action": "MODIFY",
@@ -37,31 +349,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
-      "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
-      "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
-    },
-    {
-      "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
-      "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
-      "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Manifest.txt",
-      "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
-      "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
-      "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
-      "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
       "edition": "1d39f9387fd0653a23a03121053c0ab3d93ae7aa",
       "previousEdition": "fb227bfb15cb2a7bc3290243d93711810e1112d0"
     },
@@ -128,5 +416,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 68
+  "buildId": 70
 }
