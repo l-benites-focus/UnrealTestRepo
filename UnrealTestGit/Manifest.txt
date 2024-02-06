@@ -13,7 +13,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/C1/SY0UIOBLMJT6HGYITL5I1A.uasset",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
@@ -25,7 +25,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "path": "UnrealTestGit/Manifest.txt",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
@@ -37,13 +37,13 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Manifest.txt",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/C1/SY0UIOBLMJT6HGYITL5I1A.uasset",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/KW/N3QKCM6FEPTDB3W1TF4M8Y.uasset",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
@@ -55,7 +55,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/LT/YTRLI0VQSFTTK951IG9PRD.uasset",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
@@ -73,13 +73,13 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/KW/N3QKCM6FEPTDB3W1TF4M8Y.uasset",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/LT/YTRLI0VQSFTTK951IG9PRD.uasset",
       "edition": "103245be593980cc82e17bb112e003ab6f19082d",
       "previousEdition": "bed7600f3da8643db145104e5d9c2583d6cb42a3"
     }
