@@ -1258,3 +1258,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.09-13.41.36:046][127]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888887674
 [2024.02.09-13.41.36:046][127]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888890678
 [2024.02.09-13.41.36:046][127]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888884669
+[2024.02.09-14.06.27:131][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.09-14.06.27:136][438]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.09-14.06.27:195][438]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6
+[2024.02.09-14.06.27:197][438]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/NG2R9BPZVA7ZDN0Z4VSTG6895725A44BAA7E183293F3895145557F.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset'
+[2024.02.09-14.06.27:225][438]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 798 ms)
+[2024.02.09-14.06.27:230][438]AssetCheck: New page: Asset Save: StaticMeshActor_1
+[2024.02.09-14.06.27:230][438]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
