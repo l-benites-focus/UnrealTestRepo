@@ -1319,3 +1319,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.02.09-10.20.32:933][223]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D1A1D701_1534149585
 [2024.02.09-10.20.32:933][223]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D1A1D701_1534150586
 [2024.02.09-10.20.32:933][223]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D1A1D701_1534151587
+[2024.02.09-10.22.11:068][740]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:10.544 and deleted 0 files with total size 0 MiB. Scanned 67965 files in 61782 folders with total size 17379 MiB.
