@@ -1204,3 +1204,35 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.09-11.49.32:038][119]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1864406580
 [2024.02.09-11.49.32:038][119]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1873400600
 [2024.02.09-11.49.32:038][119]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886771641
+[2024.02.09-11.58.06:310][774]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.09-11.58.06:477][774]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14112
+[2024.02.09-11.58.06:812][775]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d41bdcc4-4bc4-4344-a962-096a5508e0d5}, Name=Casque pour téléphone (Jabra EVOLVE 30 II)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.07
+[2024.02.09-11.58.06:812][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.09-11.58.06:813][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.09-12.33.57:249][226]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:09.164 and deleted 0 files with total size 0 MiB. Scanned 67965 files in 61782 folders with total size 17379 MiB.
+[2024.02.09-12.58.22:885][621]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.09-12.58.22:965][621]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14112
+[2024.02.09-12.58.23:237][622]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3} Name=PLX2783H (NVIDIA High Definition Audio))
+[2024.02.09-12.58.23:292][622]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.09-12.58.23:475][623]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.09-12.58.23:960][624]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3}, Name=PLX2783H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=32.53
+[2024.02.09-12.58.23:960][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.09-12.58.23:962][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.09-13.00.07:981][936]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.09-13.00.08:149][936]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14112
+[2024.02.09-13.00.08:484][937]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d41bdcc4-4bc4-4344-a962-096a5508e0d5}, Name=Casque pour téléphone (Jabra EVOLVE 30 II)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.21
+[2024.02.09-13.00.08:484][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.09-13.00.08:486][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.09-13.00.19:981][971]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PLX2783H (NVIDIA High Definition Audio), InstanceID=1
+[2024.02.09-13.00.20:084][971]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14112
+[2024.02.09-13.00.20:781][972]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{631b2b6a-422a-4d03-90af-acd64989b9d3}, Name=PLX2783H (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=688.30
+[2024.02.09-13.00.20:781][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.09-13.00.20:783][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.09-13.00.22:027][976]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2024.02.09-13.00.27:894][993]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2024.02.09-13.01.23:410][159]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Casque pour téléphone (Jabra EVOLVE 30 II), InstanceID=1
+[2024.02.09-13.01.23:422][159]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14112
+[2024.02.09-13.01.23:757][160]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{d41bdcc4-4bc4-4344-a962-096a5508e0d5}, Name=Casque pour téléphone (Jabra EVOLVE 30 II)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=30.24
+[2024.02.09-13.01.23:757][160]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.09-13.01.23:759][160]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.09-13.33.57:352][ 20]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:09.265 and deleted 0 files with total size 0 MiB. Scanned 67965 files in 61782 folders with total size 17379 MiB.
