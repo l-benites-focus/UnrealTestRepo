@@ -1774,3 +1774,911 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.08-13.19.59:247][ 67]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.08-13.19.59:248][ 67]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D13AEA01_1397634471
 [2024.04.08-13.19.59:248][ 67]LogContentValidation: Display: Validating /Script/Engine.PostProcessVolume /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PostProcessVolume_0
+[2024.04.08-13.21.45:093][553]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:11.246 and deleted 66748 files with total size 17331 MiB. Scanned 67965 files in 61782 folders with total size 17379 MiB.
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: ================================================
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Total job queries 151, among them cache hits 17 (11.26%)
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Tracking 125 distinct input hashes that result in 99 distinct outputs (79.20%)
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: RAM used: 1.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Jobs assigned 9, completed 1 (11.11%)
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 1.99 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Job execution time: average 1.94 s, max 1.94 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Job life time (pending + execution): average 2.01 s, max 2.01
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.01 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Average processing rate: 0.50 jobs/sec
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Total thread time: 0.67 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Total thread preprocess time: 0.05 s
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Percentage time preprocessing: 8.20%
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Effective parallelization: 0.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.04.08-13.23.54:500][142]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.04.08-13.23.54:501][142]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.04.08-13.23.54:501][142]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.67 sec, max 0.67 sec, min 0.67 sec)
+[2024.04.08-13.23.54:501][142]LogShaderCompilers: Display: ================================================
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888902691 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/55/A97ANLOY4YZJ3L6MPGIMSN.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886776651 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/24/2C7QJSOB83ZEVN95LBWIVQ.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890422704 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/1I/2RMZKQ6CFQNMGGCLVDB8UA.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1864405579 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0F/61CRT2KQQPRQ9KKSHDVWZU.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1503486539 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/10/6QSDLSBBELKMW040Q0BGD0.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1508398550 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/06/XHZ3CNMXB2O9FCT6PLJQJZ.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888881663 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SZ/4ZKBYFXQ5BDOCNTYSGKF5Z.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886763627 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PK/ABDF4C7KUJSDQMH9Q9W77N.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890421703 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PA/AXCQ3XT62NCOE8FBQ7VZC9.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1865823584 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/MZ/OHU3S4QALE95BFTBDLDM55.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1878894614 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JD/JSEK75ERCMXONCX21R6N2R.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886757618 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FL/E3E7PQCR1IR8I8XKUPCAYO.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886771642 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FG/X9OSSAA5Q9EL4KHJPQOVMS.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888876656 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/DL/ZOKZFWZTGEVFARJ5KM1VLM.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890436726 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FA/17PF507CK3OO6KUEHGAT7M.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886761624 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/D1/WD4Q9Y6HY4XO5KVCDMEHEE.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_2 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890432719 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7Y/I7DEDF5832A9VW8I9YKLSW.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890433721 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/17/2SPCHEIFFQEMX0RBAHXTJE.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1874916604 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/YR/1U5WJLDUFJ60AS7V8NTJYV.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890418696 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/XQ/XY0BI3RF5KJ20Y52CRVGZN.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1873400602 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Y9/OJW8OAY3HDQCXHRNZ5209V.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890430716 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/R7/PO4GQISPP3DI94KS430QXM.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890424708 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/Q3/K77H3R6ZEJHWXYIRNIQ9OJ.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886758619 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P1/CY5NSMAIGPLOO2AWLZINV3.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890435724 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OP/BQWZ5D2UEWFUZNSP3B44LO.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1864407581 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JS/DV49TOD8JQ1MIH6SCH7TVH.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886756616 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/O9/7UW40DFF3FF2YMIVBHQ74Y.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890420699 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/JJ/MAAPYJ3KYHYH7OIR65E0XV.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/3V/NMHOKL5LGQDOAAG00FUMZR.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886765631 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0L/N1Y9IRQK954YLJ3A3V7PM8.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/YT/CQR16QFDKKEYP53M51TV4F.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.PackageMetaData in its package
+[2024.04.08-13.23.54:763][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886762626 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/PN/06S8HSMAG2M1RT4F03368A.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1506128546 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7H/7K8RRWQ1VHMG7QEOUMHS19.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886757617 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NC/CLZ6PXQ3IAKLL5HRFPRGZJ.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890423705 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/2J/DL8JN30SKX3PZUELHFR86X.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1868818591 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VQ/M1XB2QHCWMQIE2S6N61EZB.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890424707 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RM/HXWD3NLGBAA3R61LMFTXVR.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888881664 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1X/DW454NWSGSY9J8PCUYVVSX.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1866990588 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/NL/1FBUKXMMIJ1ACBMMV7JW42.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886758621 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KM/RKFEXYQAXWXZP94TDL5FWP.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/FB/8RB55FM1HBEUVO4IOQC4YN.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1865824586 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/KM/Z8N378D3N7B258BMNCFAL2.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8K/1IKKDYS7RULH8FRYRPPF04.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888888677 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/6P/4YHPP8B2J8552ET0DZUDV8.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886775648 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/C3/7JZWMUQMB88GOIDBGEO1V7.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4D/BBOCKSZY1GVHTFRX0PR0O8.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886769637 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4A/X43RGFQ8D165OQPA3SFOWL.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1865821583 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/5V/NQ3KEMFOCDSLHYNIOFJ8WT.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890440733 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/3S/SLHMCLJF2ZCIANM8QA2RBO.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888885671 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/V1/0CS5M4C3VIBWKQV9E2TJRT.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1489749535 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/1F/KNGA2FMMDQKGGQJJT13XTV.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886766633 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/T2/3T6S31R0PIXPTHV0LH9HVU.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1864407582 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QQ/S3IV7S8VLX4OBC4F7CXYMB.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888886673 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LW/QZ27X969B2H9UDF768YI2P.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1876870610 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GL/TD1OJM95NJSL7LXTR1O5AU.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D13ED401_1367518945 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/EU/XE5Z2NRONOYNLK0NK43NCK.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1871362596 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/FQ/8PHI5E564WOL8V94GW487H.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886763628 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DZ/ALKPDIFI9QC8BJNPJSNIU4.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890441734 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/A8/L8QZFUDD8NMB7MIB6N4H75.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888904693 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/6W/8YHIHU84J16O2H54KAINSX.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886771641 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3V/D9RWSWTERPL6I99GLJ1MZ5.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1860144577 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/39/HRD8JEO1XH6I7Z6UQS6ULF.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1878893613 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/67/Z7C5YUVDZHSE19K4HRU3Y2.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886777652 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/34/6LMWIR0KYORSO35MXBT67Y.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/17/6LXV4Y6DE3LUT705XNU4DZ.PackageMetaData in its package
+[2024.04.08-13.23.54:764][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1491549536 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/13/1ZIBAT2LIB4EGYB9X56U2Z.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890417695 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/WP/8Q8OVCI7NY2YZZLIXKNX75.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888895684 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0I/4HTJBDBUVLMR84I5USTSVY.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1492608537 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UQ/VJLOFHHGOOGWPFKE6ZRFEJ.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888884668 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UF/ZRSLWUSOMZDWBGBRHW1LAE.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886768636 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/SJ/YH5GJQPQ1SKMQX2LJV7UQW.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890418697 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RA/BO8ZLSYG5T76GDQZ0M9HU9.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886762625 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/RR/RC3OOOTZ4D7T8KSPFCLYAH.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886778653 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/P7/IJ9M295VGVNCB3UX30IA5J.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888888675 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/I9/SJ3YM70OJQZN4Y9ZEGNHV6.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888891679 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5Q/HTO69L83AT0SKJHD4APNYD.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1873400600 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/87/FX6BDMUTX9XU7E6GT9AUF4.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888896685 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/WS/9FQ38NBKICDTKFSS19YNT2.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886772643 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5N/YD2X2OXH3YGD2FIK9N9GW5.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890425709 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/U1/RR31W7FAJ4WLQ84LY1X9RF.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888884669 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PD/2WTJJT6DIDMVT3SFZ3F9O1.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890437728 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/IC/K4HMAIJOUG7ICX8JJS15HN.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890433722 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/Q9/9DOYQK8F7JFIG408SK8P1S.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886768635 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HN/1OCG32CFR7MFONCBHA8I1M.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886774647 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/GT/0LD0T88LYI5CAH7HAB5L79.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888894683 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FU/NYPN49O1EAMBL80OTFJN3O.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1876868609 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/FO/A1E4XHSNRSV0345J0IYGHC.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890431718 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CR/N7GEX64N1B5TA90AYHE5PF.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888899688 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9J/DC2PRYWM53QQCN9ACUC3K3.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1508397549 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/8P/59GTHWFTDH3TGPS2RICLTT.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888882665 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9U/U9N828NM1XUYSLH0ZMOSHA.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890421702 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/5F/280A0XOOUKXYKDVCPM1E00.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888903692 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/4Q/GZX8ZUYLL465ZUE541TNQ0.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890432720 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0D/03OZ0YKUTMXMTFTPLBGJS4.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1866990587 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/0W/AXICA9EI5UG47OK14ONTZ8.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890427712 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/ZL/SKFB59AA22RVLU9CGK1LFP.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890439731 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N1/WDVLZPALKKE53NRVQ91H3S.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886760622 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/V3/ZIX794HLCS85OFG40VIVKH.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888890678 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/K0/3HEEJQU3R2CJUQ64JTY11O.PackageMetaData in its package
+[2024.04.08-13.23.54:765][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890428714 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/JV/91I9TJ6FNKS7Q54FCV304D.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1508395548 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H1/6TJOUA08JN9SSJPYLAIJRR.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886773646 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CW/GYKIM5XPFM89LLWLDWSTTP.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890426711 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/CG/CU5KNS66RUR880CX4IAXOF.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1876868608 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FA/3PZ3AAKI7O8A447KR2FQBM.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1864406580 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/6I/GELN5118R86E44SL1OA7FR.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1857818575 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/62/CYXD48YNP7MP6XVFK26NSD.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886761623 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/JXEV1Q41PZ80QHDYAU4ONK.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888887674 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/BU/5SUOJ2JKM2KHS9JQP0RUFO.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/XB/9VVR39MG0K7W5GQIEFE7SO.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1503488540 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/U6/UMJY030Q2NQE6PN6YPUROZ.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888905694 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/TP/9ZM5TCHM624N5GOQVBT5NC.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888888676 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/K9/PSNRJ0XHNJWIAOVMWLTT5Z.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890420701 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NZ/Y6BTOAUGO3ZMHTAFAMY461.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_3 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/IR/OTJMGDDXDV5TI7982YKZ5P.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HF/9H7TKAXH9DD8KI3TIXGI2I.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/CZ/K2YM0JIRZ78IHGM8W2QBAF.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1503490542 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GV/BFHZ8X8J52YY2B9G5E9UT2.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890426710 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9I/OTV7YI0U1ND6UGPQOH8O7M.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888883667 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/7N/JRMUPD2R573JK9X62PNAOC.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888885670 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6Y/60SH74LJ5N24676EE20GI2.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886770640 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/14/5RNRU7EQOBUTXX2O6LDFLF.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886775649 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ZB/VXNIRVT81O83DJBWL0DMU5.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886769638 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/6C/K3KPYENKID0T26CXD7NG0F.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890428715 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/XR/88C5OKKP92LHN2U96OZML0.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QO/CO9MG7REJF8N8AQFYRCI06.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886778654 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/P2/E1V4MQRW9QFJP5GO7BAOJE.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886770639 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MA/S6LGCZX59FVIVQ8KXCCBAQ.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1868821594 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/MJ/7VHNSZXI34WV1OQSFQEA5H.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888877657 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/GG/I6O9ECXIX007IUOT4HM0JS.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1506123543 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/8P/SGMNSFFKBDNFK78FAPP6ZT.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888880661 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/DH/QA39AAHT2ZURU3CQGIJYS7.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890435725 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/58/HN0AJKLM86YKMDDGN5Y6IT.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1871363598 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/5L/CT10QZMHUQDEQBPEIHPO0T.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/11/IM858T68EBXCBX1T2FNR96.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1873398599 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VE/EKG6L5992GGJ1ZA273FYZS.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886755615 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/VV/XCNDN2L56SM0YDM0NRAK7B.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886764629 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/UF/VOJ0JA8IPD5IH7AZEHBD8H.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890419698 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/U9/HBRVH38P4LJ8U2VIP6QN4N.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890430717 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P9/RM2S7ELEADJBJJNB35L3XX.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1878892611 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KM/OG3ZB7SGDX2V5GABOBM55Q.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1868819592 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/H4/GC8YLP5HCBJ6NKLKTW4VK0.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890428713 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C0/MP2MCE15JVEM61TL0BQCTU.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890420700 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/DG/46DAG1XF628SOLM7T85QGT.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1506126544 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/17/5XWFU2H4XHNF48CG365JQL.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/60/5PI42YRDC8HSSG6BVV2GRR.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1871362597 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0X/KT0EOQRNWR5DGRAKPLUY24.PackageMetaData in its package
+[2024.04.08-13.23.54:766][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886758620 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/0T/UK51YR77NFGYNHSX9CY4J4.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1873400601 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/01/O74CNKCR7923QS8X4SSZC0.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888898687 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YF/8F3ICHARKRE5V1OB53TV9Z.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886776650 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/UI/67AA0N9AFU445XMLY2FFLT.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1874918606 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SW/L2C8ZOME673AG3YUJZVRZC.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1874917605 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/RF/6M1JSOS36NUSE5QSW0Q2GN.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888878659 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/O5/VXS4AZFVN4RFC4L5ECQU8E.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/M3/7JQC72ZY37QM4IT43WD5CW.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890437727 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KJ/DZRK0PBZOI0P21VWZ12T36.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888875655 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JD/6XAC33U156A0TKL6KNRF69.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1866991589 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/L3/1KL02NCUMPLZM36WSRO8FB.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886772644 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EU/CIEZSMEQMRHYMOW5HTAD2L.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1876867607 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AC/MHBJL7N33QYFMONXYH23ZO.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888880662 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/U7/PQDGW2WSY2YYZJROI0VIFL.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886773645 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/Y8/9UDUBCQCU7BFJ039UMXCUX.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1508393547 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SU/PX9AGY80H9MC2UN9D18ZLF.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888878658 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QF/UF81MJI3VJ3AMAG40BNNU3.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886765630 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EZ/DVA3GZ9TCAZBU49JN132CG.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1865823585 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/O4/IAV0JNA0WS7Y6EAC7P76BM.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1874915603 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EB/OO0CRQLBSS271A557F31Y8.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888900689 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BW/R2FIBNYWAQTOIFKG6SHAA7.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1506128545 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/83/3UKU9N0BBCR2R95LCFAVXR.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1866992590 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7R/3QEP34V41B29T60OBYMR0K.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888897686 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/9E/5LY9331B0604738IIHW5ZA.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888892681 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0V/78LC6C5VSY65L08ZBWJ3GO.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888882666 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZN/FNNO5YS4Q5AO22RXU3HZYR.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888879660 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/XY/U0NICJ6BNA9MXKED71XMPD.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1861172578 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QS/4S3NX8ARWM1F5UWNE164CD.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890423706 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UP/5JX6FE1TKJOYMB6GZZH7S6.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1871360595 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OG/WGI8PGS2ODJ9TTTEY6TPTX.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1859074576 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GH/MAHU39MJORT2BYJP4PUCRJ.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888892680 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/J9/4LAK9GJYT6PECZN9V0TAQI.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886766632 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/WF/F1SUS45UWRA84FQE7YIS8N.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890434723 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/RL/7O2WA52R8H6KLIHNX3602G.PackageMetaData in its package
+[2024.04.08-13.23.54:767][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1503489541 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YK/7BX5OASD4ODQ3H2FXBJP7C.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1868820593 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/KG/4ZTV2GLQM089S39AMKPR1H.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888901690 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/PM/P5H2WFRCV46HVBSY4VDVKZ.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890438730 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/JI/KHRN4TCVEKR1KS3PO075T1.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890438729 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GM/ULW51XMUY49CGZ57QF3TMC.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1890440732 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GG/LCCR4B6SI1N68U81WCNSLQ.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888893682 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HC/B10WFZJNOVLDN7Q37U4VB1.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1886767634 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/C2/ROOBNRSNMLWD2M1384SK8S.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1888885672 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/72/B6P58UC6000WBFJ0JMSKH0.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D1A1D701_1496607538 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/11/R56URK7PRJVFVIN355K9BI.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D176D001_1878893612 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/04/I1QEBGK7HT2OTB3R5JV5KF.PackageMetaData in its package
+[2024.04.08-13.23.54:768][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.08-13.23.54:768][159]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.08-13.23.54:768][159]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.08-13.23.54:768][159]LightingResults: New page: Lighting Build
+[2024.04.08-13.23.54:768][159]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.04.08-13.23.54:809][159]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.23.54:809][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.23.54:809][159]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.04.08-13.23.54:809][159]MapCheck: New page: Map Check
+[2024.04.08-13.23.54:810][159]LightingResults: New page: Lighting Build
+[2024.04.08-13.23.54:818][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-13.23.54:820][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.08-13.23.54:826][159]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.08-13.23.54:826][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-13.23.54:826][159]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.08-13.23.54:828][159]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.08-13.23.54:828][159]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.08-13.23.54:828][159]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.08-13.23.54:868][159]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.04.08-13.23.54:868][159]LogWorldPartition: Display: WorldPartition initialize took 39 ms (total: 3.80 sec)
+[2024.04.08-13.23.54:941][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.08-13.23.54:953][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.08-13.23.54:961][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.08-13.23.54:961][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,226ms to complete.
+[2024.04.08-13.23.54:961][159]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.194
+[2024.04.08-13.23.58:783][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.08-13.23.58:942][502]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.04.08-13.23.58:943][502]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.08-13.23.58:943][502]LightingResults: New page: Lighting Build
+[2024.04.08-13.23.58:943][502]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.04.08-13.23.58:988][502]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.23.58:989][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.23.58:991][502]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.04.08-13.23.58:991][502]MapCheck: New page: Map Check
+[2024.04.08-13.23.58:991][502]LightingResults: New page: Lighting Build
+[2024.04.08-13.23.59:001][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-13.23.59:002][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.08-13.23.59:004][502]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.23.59:004][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.23.59:011][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.08-13.23.59:019][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.08-13.23.59:025][502]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.04.08-13.23.59:025][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-13.23.59:025][502]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.04.08-13.23.59:025][502]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.08-13.23.59:025][502]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.08-13.23.59:025][502]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.08-13.24.00:946][502]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.04.08-13.24.02:456][502]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049942s
+[2024.04.08-13.24.02:509][502]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.04.08-13.24.02:509][502]LogWorldPartition: Display: WorldPartition initialize took 3.48 sec (total: 7.28 sec)
+[2024.04.08-13.24.03:092][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.08-13.24.03:248][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.08-13.24.03:255][502]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.08-13.24.03:257][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,156ms to complete.
+[2024.04.08-13.24.03:257][502]LogFileHelpers: Loading map 'OpenWorldOmg' took 4.314
+[2024.04.08-13.24.03:263][502]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005933s (0.853972s overbudget)
+[2024.04.08-13.28.30:755][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.08-13.28.30:818][ 91]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.08-13.28.30:818][ 91]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.08-13.28.30:818][ 91]LightingResults: New page: Lighting Build
+[2024.04.08-13.28.30:818][ 91]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.04.08-13.28.30:890][ 91]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.28.30:890][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.28.30:895][ 91]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.04.08-13.28.30:895][ 91]MapCheck: New page: Map Check
+[2024.04.08-13.28.30:895][ 91]LightingResults: New page: Lighting Build
+[2024.04.08-13.28.30:904][ 91]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-13.28.30:920][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.08-13.28.30:925][ 91]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.28.30:925][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.28.30:934][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.04.08-13.28.30:942][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.04.08-13.28.30:946][ 91]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.08-13.28.30:948][ 91]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-13.28.30:948][ 91]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.08-13.28.30:948][ 91]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.08-13.28.30:948][ 91]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.08-13.28.30:948][ 91]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.08-13.28.30:984][ 91]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.04.08-13.28.30:984][ 91]LogWorldPartition: Display: WorldPartition initialize took 36 ms (total: 7.32 sec)
+[2024.04.08-13.28.31:046][ 91]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.08-13.28.31:057][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.08-13.28.31:063][ 91]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.08-13.28.31:063][ 91]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,161ms to complete.
+[2024.04.08-13.28.31:063][ 91]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.244
+[2024.04.08-13.30.41:331][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.04.08-13.30.41:333][892]LogStall: Shutdown...
+[2024.04.08-13.30.41:335][892]LogStall: Shutdown complete.
+[2024.04.08-13.30.41:362][892]LogSlate: Window 'UnrealTestGit - Unreal Editor' being destroyed
+[2024.04.08-13.30.41:423][893]Cmd: QUIT_EDITOR
+[2024.04.08-13.30.41:423][893]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.04.08-13.30.41:429][893]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.04.08-13.30.41:429][893]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.04.08-13.30.41:429][893]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.04.08-13.30.41:431][893]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.30.41:431][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-13.30.41:431][893]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.04.08-13.30.41:432][893]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.04.08-13.30.41:433][893]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.04.08-13.30.41:605][893]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.04.08-13.30.41:606][893]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.04.08-13.30.41:606][893]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.04.08-13.30.41:607][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.08-13.30.41:610][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.04.08-13.30.41:631][893]LogAudio: Display: Audio Device Manager Shutdown
+[2024.04.08-13.30.41:637][893]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.04.08-13.30.41:637][893]LogExit: Preparing to exit.
+[2024.04.08-13.30.41:650][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.04.08-13.30.42:699][893]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-13.30.42:719][893]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.04.08-13.30.42:727][893]LogExit: Transaction tracking system shut down
+[2024.04.08-13.30.42:733][893]LogExit: Editor shut down
+[2024.04.08-13.30.42:778][893]LogExit: Object subsystem successfully closed.
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: ================================================
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Total job queries 166, among them cache hits 17 (10.24%)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Tracking 149 distinct input hashes that result in 118 distinct outputs (79.19%)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: RAM used: 1.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Shaders Compiled: 25
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Jobs assigned 25, completed 25 (100.00%)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Average time worker was idle: 3.98 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Time job spent in pending queue: average 0.46 s, longest 2.10 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Job execution time: average 1.32 s, max 2.56 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Job life time (pending + execution): average 1.78 s, max 3.23
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.16 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Jobs were issued in 25 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Average processing rate: 4.85 jobs/sec
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Total thread time: 17.94 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Total thread preprocess time: 1.11 s
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Percentage time preprocessing: 6.21%
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Effective parallelization: 3.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.05 sec, max 1.20 sec, min 0.98 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.96 sec, max 1.05 sec, min 0.87 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 0.78 sec, max 0.78 sec, min 0.78 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.77 sec, max 0.82 sec, min 0.70 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.16% of total time (compiled    5 times, average 1.05 sec, max 1.20 sec, min 0.98 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 26.70% of total time (compiled    5 times, average 0.96 sec, max 1.05 sec, min 0.87 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.96% of total time (compiled    3 times, average 0.77 sec, max 0.82 sec, min 0.70 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 9.66% of total time (compiled    3 times, average 0.58 sec, max 0.67 sec, min 0.51 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.55% of total time (compiled    1 times, average 0.82 sec, max 0.82 sec, min 0.82 sec)
+[2024.04.08-13.30.42:783][893]LogShaderCompilers: Display: ================================================
+[2024.04.08-13.30.42:784][893]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.04.08-13.30.42:791][893]LogVirtualization: UE::Virtualization was shutdown
+[2024.04.08-13.30.42:854][893]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (989)
+[2024.04.08-13.30.42:854][893]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (987)
+[2024.04.08-13.30.42:854][893]LogModuleManager: Shutting down and abandoning module SubobjectEditor (985)
+[2024.04.08-13.30.42:854][893]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2024.04.08-13.30.42:854][893]LogModuleManager: Shutting down and abandoning module AddContentDialog (979)
+[2024.04.08-13.30.42:855][893]LogModuleManager: Shutting down and abandoning module WidgetCarousel (978)
+[2024.04.08-13.30.42:855][893]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2024.04.08-13.30.42:855][893]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2024.04.08-13.30.42:855][893]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module TextureAlignMode (965)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module BspMode (963)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module GeometryMode (961)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module SmartSnapping (959)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WaveTableEditor (957)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (955)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module GooglePADEditor (953)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (951)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (949)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module PlanarCut (947)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module CharacterAI (945)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (943)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (941)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (939)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (937)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module IKRigEditor (935)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module ControlRigEditor (933)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (931)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (929)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WebMMedia (927)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (925)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (923)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (921)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (919)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module SequenceRecorder (918)
+[2024.04.08-13.30.42:856][893]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (915)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (913)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (911)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (909)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (907)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (905)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (903)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2024.04.08-13.30.42:857][893]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2024.04.08-13.30.42:859][893]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2024.04.08-13.30.42:859][893]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2024.04.08-13.30.42:859][893]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2024.04.08-13.30.42:859][893]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2024.04.08-13.30.42:860][893]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2024.04.08-13.30.43:719][893]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2024.04.08-13.30.43:720][893]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2024.04.08-13.30.43:724][893]MemoryProfiler: Shutdown
+[2024.04.08-13.30.43:725][893]NetworkingProfiler: Shutdown
+[2024.04.08-13.30.43:725][893]LoadingProfiler: Shutdown
+[2024.04.08-13.30.43:726][893]TimingProfiler: Shutdown
+[2024.04.08-13.30.43:729][893]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2024.04.08-13.30.43:730][893]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2024.04.08-13.30.43:731][893]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2024.04.08-13.30.43:732][893]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2024.04.08-13.30.43:732][893]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2024.04.08-13.30.43:733][893]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2024.04.08-13.30.43:734][893]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2024.04.08-13.30.43:734][893]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2024.04.08-13.30.43:735][893]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2024.04.08-13.30.43:736][893]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2024.04.08-13.30.43:736][893]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2024.04.08-13.30.43:736][893]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2024.04.08-13.30.43:746][893]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2024.04.08-13.30.43:746][893]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2024.04.08-13.30.43:746][893]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2024.04.08-13.30.43:746][893]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2024.04.08-13.30.43:746][893]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2024.04.08-13.30.43:747][893]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (707)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (705)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TakesCore (703)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (701)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module LightMixer (695)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (693)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (691)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (689)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (687)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TakeSequencer (683)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module TakeMovieScene (681)
+[2024.04.08-13.30.43:824][893]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (679)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module StylusInput (677)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (675)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module PluginBrowser (673)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (671)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (669)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (667)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (665)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GLTFImporter (663)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GLTFCore (661)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (659)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module EditorDebugTools (657)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (655)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module CryptoKeys (653)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module CurveEditorTools (651)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (649)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (647)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (645)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module Paper2DEditor (643)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module SynthesisEditor (641)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ResonanceAudio (639)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (637)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (635)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (633)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingOperators (631)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (629)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingComponents (627)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryFramework (626)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (623)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MeshModelingTools (621)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InputDebugging (619)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GooglePAD (617)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module DynamicMesh (615)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (613)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (611)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (609)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (607)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AudioCapture (605)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (604)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AssetTags (601)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (599)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (597)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AppleImageUtils (595)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module AndroidPermission (593)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (591)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (589)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (585)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (583)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (581)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangePipelines (579)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeExport (577)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeMessages (575)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeImport (573)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (571)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeNodes (569)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (567)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (565)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (563)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (561)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module InterchangeEditor (559)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (557)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module UVEditorTools (555)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module UVEditor (553)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (551)
+[2024.04.08-13.30.43:825][893]LogOpenImageDenoise: OIDN shutting down
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MeshLODToolset (549)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (547)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (545)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (543)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (541)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module Iris (539)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (537)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (535)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (533)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (531)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (529)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (528)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (526)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (523)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module DataflowNodes (521)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module DataflowEditor (519)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (517)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module FractureEditor (515)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (513)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ChaosNiagara (511)
+[2024.04.08-13.30.43:825][893]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (509)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (507)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AutomationUtils (505)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module BackChannel (503)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (501)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module SequencerScripting (499)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module TemplateSequence (497)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (495)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (493)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module InterchangeTests (491)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AlembicImporter (489)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AlembicLibrary (488)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GeometryCache (487)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (486)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (481)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (479)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module UObjectPlugin (477)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (475)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (473)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module PluginUtils (471)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (469)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GitSourceControl (467)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module DumpGPUServices (465)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (463)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (461)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module VariantManager (459)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (458)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (455)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (453)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (451)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module ControlRigSpline (449)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (447)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (445)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (443)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MediaPlate (441)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MediaCompositing (439)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module ImgMedia (437)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (435)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module TraceUtilities (433)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module DataValidation (425)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (423)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (421)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module FacialAnimation (419)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (417)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module TreeMap (416)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module Paper2D (413)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module Synthesis (411)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module SoundFields (409)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module SignificanceManager (407)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (405)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (403)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundEditor (401)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AudioWidgets (400)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (399)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (395)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundEngine (393)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module WaveTable (392)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (390)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (387)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (385)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (383)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (381)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (379)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (377)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (376)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (373)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (371)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module CableComponent (369)
+[2024.04.08-13.30.43:826][893]LogModuleManager: Shutting down and abandoning module UdpMessaging (367)
+[2024.04.08-13.30.43:928][893]LogModuleManager: Shutting down and abandoning module TcpMessaging (365)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (363)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module PBIK (361)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module FullBodyIK (359)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (357)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module TakeRecorder (356)
+[2024.04.08-13.30.44:028][893]LogModuleManager: Shutting down and abandoning module LevelEditor (354)
+[2024.04.08-13.30.44:029][893]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (353)
+[2024.04.08-13.30.44:029][893]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (351)
+[2024.04.08-13.30.44:029][893]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (349)
+[2024.04.08-13.30.44:029][893]LogModuleManager: Shutting down and abandoning module MainFrame (347)
+[2024.04.08-13.30.44:029][893]LogModuleManager: Shutting down and abandoning module HotReload (346)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ChaosCaching (341)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ActorSequence (339)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (337)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module Niagara (335)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module SignalProcessing (334)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module NiagaraEditor (332)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ContentBrowser (331)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ToolMenus (330)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ContentBrowserData (328)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module NiagaraCore (323)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module GameplayCameras (321)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (319)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (317)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module AnimationSharing (315)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (313)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module IKRig (311)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (309)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ControlRig (307)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module LevelSequence (306)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (303)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (301)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (295)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (293)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2024.04.08-13.30.44:030][893]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2024.04.08-13.30.44:031][893]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module Core (227)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2024.04.08-13.30.44:032][893]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2024.04.08-13.30.44:043][893]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2024.04.08-13.30.44:043][893]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2024.04.08-13.30.44:045][893]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (112)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (110)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module ChunkDownloader (108)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (106)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (104)
+[2024.04.08-13.30.44:046][893]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (102)
+[2024.04.08-13.30.44:047][893]LogModuleManager: Shutting down and abandoning module XMPP (97)
+[2024.04.08-13.30.44:047][893]LogModuleManager: Shutting down and abandoning module WebSockets (96)
+[2024.04.08-13.30.44:078][893]LogModuleManager: Shutting down and abandoning module HTTP (93)
+[2024.04.08-13.30.44:079][893]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.04.08-13.30.44:079][893]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F27B72F-4BF3-D462-2FF6-8B9AB9D807FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=7d1b95d04175b49f4123dd8ecf53197e%7C9766764502054529b75c5eeed0ba8ee2%7C41a2a577-6bd4-4bc5-97aa-2e5c61497bae&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.04.08-13.30.44:105][893]LogModuleManager: Shutting down and abandoning module SSL (92)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (88)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (86)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (84)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module ChaosCloth (82)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (80)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module NiagaraShader (78)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module PixWinPlugin (74)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module VariantManagerContent (72)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module GLTFExporter (70)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module DatasmithContent (68)
+[2024.04.08-13.30.44:106][893]LogModuleManager: Shutting down and abandoning module WmfMedia (66)
+[2024.04.08-13.30.44:109][893]LogModuleManager: Shutting down and abandoning module Media (65)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2024.04.08-13.30.44:111][893]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.04.08-13.30.44:111][893]LogXGEController: Cleaning working directory: C:/Users/l_benites/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.04.08-13.30.44:112][893]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.04.08-13.30.44:114][893]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.04.08-13.30.44:247][893]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.04.08-13.30.44:277][893]LogExit: Exiting.
+[2024.04.08-13.30.44:298][893]Log file closed, 04/08/24 15:30:44
