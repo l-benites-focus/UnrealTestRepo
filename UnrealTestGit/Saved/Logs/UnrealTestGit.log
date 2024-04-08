@@ -1100,3 +1100,52 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.04.08-14.54.24:288][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms
 [2024.04.08-14.54.24:291][486]AssetCheck: New page: Asset Save: NewBlueprint_C_UAID_B06EBFBDC5D13FEA01_1707754351
 [2024.04.08-14.54.24:291][486]LogContentValidation: Display: Validating /Game/Blueprints/NewBlueprint.NewBlueprint_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D13FEA01_1707754351
+[2024.04.08-14.55.57:558][894]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.206 and deleted 0 files with total size 0 MiB. Scanned 2406 files in 2397 folders with total size 163 MiB.
+[2024.04.08-14.58.27:548][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.08-14.58.27:655][615]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.04.08-14.58.27:655][615]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.08-14.58.27:655][615]LightingResults: New page: Lighting Build
+[2024.04.08-14.58.27:655][615]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.04.08-14.58.27:697][615]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-14.58.27:697][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-14.58.27:700][615]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2024.04.08-14.58.27:701][615]MapCheck: New page: Map Check
+[2024.04.08-14.58.27:701][615]LightingResults: New page: Lighting Build
+[2024.04.08-14.58.27:707][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.08-14.58.27:709][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.04.08-14.58.27:710][615]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.08-14.58.27:710][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.08-14.58.27:719][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.04.08-14.58.27:725][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.08-14.58.27:733][615]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.04.08-14.58.27:733][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.08-14.58.27:733][615]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.04.08-14.58.27:735][615]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.08-14.58.27:735][615]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.08-14.58.27:735][615]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.08-14.58.28:904][615]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.04.08-14.58.28:904][615]LogWorldPartition: Display: WorldPartition initialize took 1.16 sec (total: 1.70 sec)
+[2024.04.08-14.58.29:405][615]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.08-14.58.29:524][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.04.08-14.58.29:529][615]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.08-14.58.29:530][615]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,834ms to complete.
+[2024.04.08-14.58.29:530][615]LogFileHelpers: Loading map 'OpenWorldOmg' took 1.876
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: ================================================
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: Total job queries 93, among them cache hits 4 (4.30%)
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: Tracking 89 distinct input hashes that result in 75 distinct outputs (84.27%)
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: RAM used: 0.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.08-14.58.29:730][615]LogShaderCompilers: Display: ================================================
+[2024.04.08-14.58.32:928][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.58.53:715][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.58.54:213][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.58.54:575][155]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.59.13:902][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.59.18:973][691]LogSlate: Took 0.004858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.08-14.59.31:439][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.59.31:902][917]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.08-14.59.42:930][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
