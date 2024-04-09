@@ -1544,3 +1544,66 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.31.03:505][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.31 sec)
 [2024.04.09-12.31.03:511][416]AssetCheck: New page: Asset Save: MapTest
 [2024.04.09-12.31.03:511][416]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
+[2024.04.09-12.31.26:922][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.09-12.31.26:923][777]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MapTest.MapTest
+[2024.04.09-12.31.26:923][777]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.31.26:923][777]LightingResults: New page: Lighting Build
+[2024.04.09-12.31.26:923][777]LoadErrors: New page: Loading map: MapTest.umap
+[2024.04.09-12.31.26:924][777]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.31.26:924][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.31.26:924][777]MapCheck: New page: Map Check
+[2024.04.09-12.31.26:924][777]LightingResults: New page: Lighting Build
+[2024.04.09-12.31.26:947][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.31.26:953][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.09-12.31.26:958][777]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapTest'.
+[2024.04.09-12.31.26:958][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.31.26:958][777]LogAIModule: Creating AISystem for world MapTest
+[2024.04.09-12.31.27:025][777]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.31.27:051][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.09-12.31.27:057][777]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.31.27:057][777]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,068ms to complete.
+[2024.04.09-12.31.27:057][777]LogFileHelpers: Loading map 'MapTest' took 0.134
+[2024.04.09-12.31.31:836][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.04.09-12.31.31:899][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.09-12.31.31:899][243]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.31.31:899][243]LightingResults: New page: Lighting Build
+[2024.04.09-12.31.31:899][243]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.04.09-12.31.31:901][243]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.31.31:901][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.31.31:901][243]MapCheck: New page: Map Check
+[2024.04.09-12.31.31:901][243]LightingResults: New page: Lighting Build
+[2024.04.09-12.31.31:924][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.31.31:925][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.09-12.31.31:927][243]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.31.31:927][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.31.31:952][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.09-12.31.31:974][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.09-12.31.31:979][243]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.09-12.31.31:980][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.31.31:980][243]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.09-12.31.31:980][243]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.09-12.31.31:980][243]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-12.31.31:980][243]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.09-12.31.32:070][243]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.04.09-12.31.32:070][243]LogWorldPartition: Display: WorldPartition initialize took 90 ms (total: 4.33 sec)
+[2024.04.09-12.31.32:144][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.31.32:171][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.04.09-12.31.32:177][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.31.32:177][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,201ms to complete.
+[2024.04.09-12.31.32:177][243]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.278
+[2024.04.09-12.31.33:874][432]Cmd: EDIT COPY
+[2024.04.09-12.31.34:037][450]Cmd: EDIT PASTE
+[2024.04.09-12.31.34:714][523]Cmd: EDIT PASTE
+[2024.04.09-12.31.35:714][635]Cmd: EDIT PASTE
+[2024.04.09-12.31.37:135][797]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.31.37:191][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GN/H592ZWLSLN55ZNFZ7092I1
+[2024.04.09-12.31.37:191][797]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/H592ZWLSLN55ZNFZ7092I11CCE6CBF4B0D9103F87929B59C1D47E3.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GN/H592ZWLSLN55ZNFZ7092I1.uasset'
+[2024.04.09-12.31.37:193][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GA/8H1U5RNAT03P0I25HL2GU9
+[2024.04.09-12.31.37:193][797]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/8H1U5RNAT03P0I25HL2GU98292D4854D356D77BC2728ACCC6A34C3.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GA/8H1U5RNAT03P0I25HL2GU9.uasset'
+[2024.04.09-12.31.37:196][797]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J2/86HZVWGCZFTPMPC6N6VH05
+[2024.04.09-12.31.37:196][797]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/86HZVWGCZFTPMPC6N6VH05B6A2D0EC4E7275F3BF750CB32F7F0CB9.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J2/86HZVWGCZFTPMPC6N6VH05.uasset'
+[2024.04.09-12.31.37:205][797]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.37 sec)
+[2024.04.09-12.31.37:211][797]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.09-12.31.37:211][797]LogContentValidation: Display: Validating /Game/Blueprints/NewBlueprint_2.NewBlueprint_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_2_C_UAID_B06EBFBDC5D188EA01_1166165202
+[2024.04.09-12.31.37:211][797]LogContentValidation: Display: Validating /Game/Blueprints/NewBlueprint_2.NewBlueprint_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_2_C_UAID_B06EBFBDC5D188EA01_1165165201
+[2024.04.09-12.31.37:211][797]LogContentValidation: Display: Validating /Game/Blueprints/NewBlueprint_2.NewBlueprint_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_2_C_UAID_B06EBFBDC5D188EA01_1164488200
