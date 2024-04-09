@@ -1756,3 +1756,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1309852795
 [2024.04.09-12.44.39:235][265]LogSlate: Took 0.006571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2024.04.09-12.44.43:464][745]Cmd: SELECT NONE
+[2024.04.09-12.47.16:565][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.47.16:618][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR
+[2024.04.09-12.47.16:619][714]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MUH7PAEX84JJT340HYB0TRF0A2A2BA452E6573DB825F95D3882DBE.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR.uasset'
+[2024.04.09-12.47.16:621][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI
+[2024.04.09-12.47.16:622][714]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/A0IDJHTCM8RXQOICFC2JDIF960C2A243EDBF4E45D593B2F9DCDC87.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset'
+[2024.04.09-12.47.16:624][714]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05
+[2024.04.09-12.47.16:625][714]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GA1EN5BON9BK19IQ3JRM050C73519240FA6D0464FC61BE96B996E8.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset'
+[2024.04.09-12.47.16:634][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.82 sec)
+[2024.04.09-12.47.16:642][714]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.09-12.47.16:642][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1308775794
+[2024.04.09-12.47.16:643][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1305475791
+[2024.04.09-12.47.16:643][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1309852795
