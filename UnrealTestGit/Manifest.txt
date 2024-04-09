@@ -1,10 +1,46 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-09T14:29:25.000+02:00",
-  "id": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+  "date": "2024-04-09T14:31:41.000+02:00",
+  "id": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
   "comment": "Pushed changes",
   "modifications": [
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/GN/H592ZWLSLN55ZNFZ7092I1.uasset",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/J2/86HZVWGCZFTPMPC6N6VH05.uasset",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/GA/8H1U5RNAT03P0I25HL2GU9.uasset",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
+      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
+      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
+    },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
@@ -37,12 +73,6 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
-      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
-      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
-    },
-    {
-      "action": "MODIFY",
       "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/T6/5Y96Y0TC2XL6YLGIMN9UTK.uasset",
       "edition": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
       "previousEdition": "36659bff024330b2a66b9e8a7a912b898ad8159a"
@@ -68,12 +98,6 @@
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
-      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
-      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
       "edition": "9c12aa64068bec63c79806de96685937aab3b481",
       "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
     },
@@ -360,12 +384,6 @@
       "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
     },
     {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
       "action": "DELETE",
       "path": "UnrealTestGit/Saved/WorldPartition/StreamingGeneration-Cook-00002d0c-2024.01.04-09.30.48.log",
       "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
@@ -518,5 +536,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 41
+  "buildId": 42
 }
