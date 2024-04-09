@@ -1,21 +1,45 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-09T14:27:24.000+02:00",
-  "id": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255",
+  "date": "2024-04-09T14:29:25.000+02:00",
+  "id": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
   "comment": "Pushed changes",
   "modifications": [
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
-      "edition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255",
-      "previousEdition": "cc04cbf6f7a77c424907a3cf299067c11b0b4267"
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/X2/K3VPUG6XF7DINHTYAGFDI3.uasset",
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset",
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
-      "edition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255",
-      "previousEdition": "cc04cbf6f7a77c424907a3cf299067c11b0b4267"
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Manifest.txt",
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
+      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
     },
     {
       "action": "MODIFY",
@@ -31,19 +55,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
-      "edition": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
-      "previousEdition": "36659bff024330b2a66b9e8a7a912b898ad8159a"
-    },
-    {
-      "action": "MODIFY",
       "path": ".gitignore",
-      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
-      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Manifest.txt",
       "edition": "9c12aa64068bec63c79806de96685937aab3b481",
       "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
     },
@@ -506,5 +518,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 40
+  "buildId": 41
 }

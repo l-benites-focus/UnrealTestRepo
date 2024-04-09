@@ -1535,3 +1535,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.29.20:148][553]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.04.09-12.29.20:148][553]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,067ms to complete.
 [2024.04.09-12.29.20:148][553]LogFileHelpers: Loading map 'MapTest' took 0.269
+[2024.04.09-12.31.03:395][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.31.03:456][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapTest" FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-12.31.03:479][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.09-12.31.03:488][416]LogSavePackage: Moving output files for package: /Game/MapTest
+[2024.04.09-12.31.03:489][416]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MapTestE6722DFD4EEBC77ACA17F4BB06E31B9A.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap'
+[2024.04.09-12.31.03:497][416]LogFileHelpers: Saving map 'MapTest' took 0.041
+[2024.04.09-12.31.03:505][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 1.31 sec)
+[2024.04.09-12.31.03:511][416]AssetCheck: New page: Asset Save: MapTest
+[2024.04.09-12.31.03:511][416]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
