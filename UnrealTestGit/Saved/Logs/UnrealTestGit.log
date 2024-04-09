@@ -1961,3 +1961,76 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.56.07:422][402]AssetCheck: New page: Asset Save: MapTest
 [2024.04.09-12.56.07:422][402]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
 [2024.04.09-12.56.08:194][492]Cmd: SELECT NONE
+[2024.04.09-13.01.52:270][283]LogViewport: Scene viewport resized to 1014x378, mode Windowed.
+[2024.04.09-13.01.52:337][283]LogViewport: Scene viewport resized to 1014x385, mode Windowed.
+[2024.04.09-13.01.52:403][283]LogViewport: Scene viewport resized to 1014x393, mode Windowed.
+[2024.04.09-13.01.52:452][283]LogViewport: Scene viewport resized to 1014x397, mode Windowed.
+[2024.04.09-13.01.52:507][283]LogViewport: Scene viewport resized to 1014x403, mode Windowed.
+[2024.04.09-13.01.52:570][283]LogViewport: Scene viewport resized to 1014x410, mode Windowed.
+[2024.04.09-13.01.52:620][283]LogViewport: Scene viewport resized to 1014x416, mode Windowed.
+[2024.04.09-13.01.52:669][283]LogViewport: Scene viewport resized to 1014x418, mode Windowed.
+[2024.04.09-13.01.52:719][283]LogViewport: Scene viewport resized to 1014x423, mode Windowed.
+[2024.04.09-13.01.52:770][283]LogViewport: Scene viewport resized to 1014x424, mode Windowed.
+[2024.04.09-13.01.52:820][283]LogViewport: Scene viewport resized to 1014x428, mode Windowed.
+[2024.04.09-13.01.52:870][283]LogViewport: Scene viewport resized to 1014x432, mode Windowed.
+[2024.04.09-13.01.52:920][283]LogViewport: Scene viewport resized to 1014x436, mode Windowed.
+[2024.04.09-13.01.52:970][283]LogViewport: Scene viewport resized to 1014x439, mode Windowed.
+[2024.04.09-13.09.08:857][423]LogDerivedDataCache: C:/Users/l_benites/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.223 and deleted 0 files with total size 0 MiB. Scanned 3240 files in 3225 folders with total size 173 MiB.
+[2024.04.09-13.31.11:061][328]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2024.04.09-13.31.26:569][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-13.31.26:638][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapTest" FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-13.31.26:695][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.04.09-13.31.26:705][917]LogSavePackage: Moving output files for package: /Game/MapTest
+[2024.04.09-13.31.26:706][917]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MapTestF258ACC34002EEB10EE2A0819BD21375.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap'
+[2024.04.09-13.31.26:714][917]LogFileHelpers: Saving map 'MapTest' took 0.077
+[2024.04.09-13.31.26:725][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 2.51 sec)
+[2024.04.09-13.31.26:732][917]AssetCheck: New page: Asset Save: MapTest
+[2024.04.09-13.31.26:732][917]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
+[2024.04.09-13.31.32:718][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.04.09-13.31.32:782][468]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.04.09-13.31.32:782][468]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-13.31.32:782][468]LightingResults: New page: Lighting Build
+[2024.04.09-13.31.32:782][468]LoadErrors: New page: Loading map: ThirdPersonMap.umap
+[2024.04.09-13.31.32:820][468]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-13.31.32:820][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-13.31.32:820][468]MapCheck: New page: Map Check
+[2024.04.09-13.31.32:820][468]LightingResults: New page: Lighting Build
+[2024.04.09-13.31.32:844][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-13.31.32:847][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.04.09-13.31.32:848][468]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-13.31.32:848][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-13.31.32:876][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.09-13.31.32:901][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.09-13.31.32:908][468]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2024.04.09-13.31.32:908][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-13.31.32:908][468]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.04.09-13.31.32:908][468]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.09-13.31.32:908][468]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-13.31.32:908][468]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.09-13.31.33:030][468]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2024.04.09-13.31.33:030][468]LogWorldPartition: Display: WorldPartition initialize took 120 ms (total: 6.46 sec)
+[2024.04.09-13.31.33:136][468]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-13.31.33:165][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.09-13.31.33:171][468]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-13.31.33:173][468]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,957ms to complete.
+[2024.04.09-13.31.33:173][468]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.391
+[2024.04.09-13.31.35:947][773]Cmd: DELETE
+[2024.04.09-13.31.35:947][773]Cmd: ACTOR DELETE
+[2024.04.09-13.31.35:948][773]LogEditorActor: Deleted Actor: NewBlueprint_2_C
+[2024.04.09-13.31.35:982][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.09-13.31.35:983][773]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2024.04.09-13.31.36:526][831]Cmd: DELETE
+[2024.04.09-13.31.36:526][831]Cmd: ACTOR DELETE
+[2024.04.09-13.31.36:527][831]LogEditorActor: Deleted Actor: NewBlueprint_2_C
+[2024.04.09-13.31.36:556][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.09-13.31.36:557][831]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2024.04.09-13.31.36:981][875]Cmd: DELETE
+[2024.04.09-13.31.36:981][875]Cmd: ACTOR DELETE
+[2024.04.09-13.31.36:983][875]LogEditorActor: Deleted Actor: NewBlueprint_2_C
+[2024.04.09-13.31.37:011][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.09-13.31.37:013][875]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.04.09-13.31.39:146][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-13.31.39:269][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.09-13.31.39:296][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.04.09-13.31.39:322][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.04.09-13.31.39:340][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 2.70 sec)
