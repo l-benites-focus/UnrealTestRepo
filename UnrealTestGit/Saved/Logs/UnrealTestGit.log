@@ -1916,3 +1916,37 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.53.39:153][511]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D119D001_1302998207
 [2024.04.09-12.53.39:153][511]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1306183792
 [2024.04.09-12.53.41:244][760]Cmd: SELECT NONE
+[2024.04.09-12.54.55:818][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.09-12.54.55:888][345]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MapTest.MapTest
+[2024.04.09-12.54.55:888][345]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.54.55:888][345]LightingResults: New page: Lighting Build
+[2024.04.09-12.54.55:888][345]LoadErrors: New page: Loading map: MapTest.umap
+[2024.04.09-12.54.55:931][345]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.54.55:931][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.54.55:936][345]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.04.09-12.54.55:936][345]MapCheck: New page: Map Check
+[2024.04.09-12.54.55:936][345]LightingResults: New page: Lighting Build
+[2024.04.09-12.54.55:965][345]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.54.55:978][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.04.09-12.54.55:983][345]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.54.55:983][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.54.56:008][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.09-12.54.56:032][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.04.09-12.54.56:037][345]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapTest'.
+[2024.04.09-12.54.56:037][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.54.56:037][345]LogAIModule: Creating AISystem for world MapTest
+[2024.04.09-12.54.56:109][345]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.54.56:135][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.09-12.54.56:141][345]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.54.56:142][345]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,069ms to complete.
+[2024.04.09-12.54.56:142][345]LogFileHelpers: Loading map 'MapTest' took 0.253
+[2024.04.09-12.54.58:929][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.54.58:981][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapTest" FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-12.54.59:005][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.09-12.54.59:013][653]LogSavePackage: Moving output files for package: /Game/MapTest
+[2024.04.09-12.54.59:013][653]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MapTest77F037CA4D59E300D4B227A5071C1815.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap'
+[2024.04.09-12.54.59:021][653]LogFileHelpers: Saving map 'MapTest' took 0.040
+[2024.04.09-12.54.59:028][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.25 sec)
+[2024.04.09-12.54.59:034][653]AssetCheck: New page: Asset Save: MapTest
+[2024.04.09-12.54.59:034][653]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
+[2024.04.09-12.55.01:522][950]Cmd: SELECT NONE
