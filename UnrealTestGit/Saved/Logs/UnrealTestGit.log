@@ -1672,3 +1672,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.43.52:219][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.65 sec)
 [2024.04.09-12.43.52:225][728]AssetCheck: New page: Asset Save: MapTest
 [2024.04.09-12.43.52:225][728]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
+[2024.04.09-12.44.12:381][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.09-12.44.12:485][696]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.04.09-12.44.12:485][696]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.44.12:485][696]LightingResults: New page: Lighting Build
+[2024.04.09-12.44.12:485][696]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.04.09-12.44.12:486][696]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.44.12:486][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.44.12:486][696]MapCheck: New page: Map Check
+[2024.04.09-12.44.12:486][696]LightingResults: New page: Lighting Build
+[2024.04.09-12.44.12:509][696]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.44.12:511][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.09-12.44.12:512][696]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.44.12:512][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.44.12:536][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.04.09-12.44.12:560][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.09-12.44.12:570][696]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.04.09-12.44.12:570][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.44.12:570][696]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.04.09-12.44.12:571][696]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.09-12.44.12:571][696]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-12.44.12:571][696]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.09-12.44.13:850][696]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.04.09-12.44.13:850][696]LogWorldPartition: Display: WorldPartition initialize took 1.28 sec (total: 5.61 sec)
+[2024.04.09-12.44.14:438][696]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.44.14:485][696]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.04.09-12.44.14:552][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.09-12.44.14:560][696]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.44.14:561][696]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,837ms to complete.
+[2024.04.09-12.44.14:561][696]LogFileHelpers: Loading map 'OpenWorldOmg' took 2.077
+[2024.04.09-12.44.14:568][696]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002424s (0.083429s overbudget)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: ================================================
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Total job queries 165, among them cache hits 27 (16.36%)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 110 distinct outputs (79.71%)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Average time worker was idle: 50.32 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 2.46 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 2.53
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.80 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Average processing rate: 2.10 jobs/sec
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Total thread time: 6.26 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Total thread preprocess time: 0.63 s
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Percentage time preprocessing: 9.98%
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.01 sec, max 1.14 sec, min 0.87 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.76 sec, max 0.78 sec, min 0.73 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.73 sec, max 0.75 sec, min 0.70 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.64 sec, max 0.74 sec, min 0.55 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.12% of total time (compiled    2 times, average 1.01 sec, max 1.14 sec, min 0.87 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.15% of total time (compiled    2 times, average 0.76 sec, max 0.78 sec, min 0.73 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.16% of total time (compiled    2 times, average 0.73 sec, max 0.75 sec, min 0.70 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.57% of total time (compiled    2 times, average 0.64 sec, max 0.74 sec, min 0.55 sec)
+[2024.04.09-12.44.14:726][696]LogShaderCompilers: Display: ================================================
+[2024.04.09-12.44.22:920][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.04.09-12.44.38:064][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.44.38:142][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR
+[2024.04.09-12.44.38:143][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MUH7PAEX84JJT340HYB0TRD8544DDC4B476CC01536119C16F9B406.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR.uasset'
+[2024.04.09-12.44.38:145][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI
+[2024.04.09-12.44.38:146][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/A0IDJHTCM8RXQOICFC2JDI64B8F3E749A88837E46FDA80AEAA0EF0.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset'
+[2024.04.09-12.44.38:148][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05
+[2024.04.09-12.44.38:149][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/GA1EN5BON9BK19IQ3JRM05E80834544A785BD054A38F8DE93D2605.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset'
+[2024.04.09-12.44.38:152][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO
+[2024.04.09-12.44.38:153][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/JWLQYW6YQM6X637C3OT4SOFBF10C8E4AC627A209906C8452162BFF.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset'
+[2024.04.09-12.44.38:155][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL
+[2024.04.09-12.44.38:156][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/RU35BI4RX7IIFMZKKHLPPLEC3C2FF84980E65FAE2977A8CF07020A.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL.uasset'
+[2024.04.09-12.44.38:158][149]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO
+[2024.04.09-12.44.38:159][149]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/18CJ44WY2738P3TC37NIFO5B6302734C883B2FEE2E57927D9E24C9.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO.uasset'
+[2024.04.09-12.44.38:168][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.75 sec)
+[2024.04.09-12.44.38:176][149]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1306183792
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1307659793
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D119D001_1302998207
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1308775794
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1305475791
+[2024.04.09-12.44.38:176][149]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1309852795
+[2024.04.09-12.44.39:235][265]LogSlate: Took 0.006571 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.04.09-12.44.43:464][745]Cmd: SELECT NONE
