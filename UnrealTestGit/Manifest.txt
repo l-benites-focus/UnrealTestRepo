@@ -1,15 +1,99 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-08T16:59:53.000+02:00",
-  "id": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
+  "date": "2024-04-08T17:39:01.000+02:00",
+  "id": "9c12aa64068bec63c79806de96685937aab3b481",
   "comment": "Pushed changes",
   "modifications": [
     {
       "action": "MODIFY",
+      "path": ".gitignore",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
       "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Manifest.txt",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/AutoScreenshot.png",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/Engine.ini",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderAssetInfo-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.assetinfo.json",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderCode-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.ushaderbytecode",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-UnrealTestGit-PCD3D_SM5-PCD3D_SM5/Dump.txt",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderAssetInfo-UnrealTestGit-PCD3D_SM6-PCD3D_SM6.assetinfo.json",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-UnrealTestGit-PCD3D_SM6-PCD3D_SM6.ushaderbytecode",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-UnrealTestGit-PCD3D_SM6-PCD3D_SM6/Dump.txt",
+      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
+      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
     },
     {
       "action": "MODIFY",
@@ -252,74 +336,8 @@
       "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
     },
     {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Manifest.txt",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
       "action": "ADD",
       "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/OWRGS0WOXILW03OZ0VCE6R.uasset",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/AutoScreenshot.png",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderAssetInfo-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.assetinfo.json",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderCode-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.ushaderbytecode",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-UnrealTestGit-PCD3D_SM5-PCD3D_SM5/Dump.txt",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderAssetInfo-UnrealTestGit-PCD3D_SM6-PCD3D_SM6.assetinfo.json",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderCode-UnrealTestGit-PCD3D_SM6-PCD3D_SM6.ushaderbytecode",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-UnrealTestGit-PCD3D_SM6-PCD3D_SM6/Dump.txt",
       "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
       "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
     },
@@ -482,5 +500,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 24
+  "buildId": 29
 }
