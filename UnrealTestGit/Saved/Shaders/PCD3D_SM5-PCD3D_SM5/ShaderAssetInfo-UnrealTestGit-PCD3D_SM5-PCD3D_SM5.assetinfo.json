@@ -2,6 +2,12 @@
 	"AssetInfoVersion": 2,
 	"ShaderCodeToAssets": [
 		{
+			"ShaderMapHash": "C1840C0AE0F718F07DFC8EF09D70B65A373701D5",
+			"Assets": [
+				"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "6D4D490C6D8997293D7E86561FCE16DD5A2EB358",
 			"Assets": [
 				"/Game/OpenWorldOmg/_Generated_/MainGrid_L0_X-2_Y-3_DL0",

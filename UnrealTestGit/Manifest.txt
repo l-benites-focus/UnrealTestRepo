@@ -1,10 +1,28 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-08T17:39:01.000+02:00",
-  "id": "9c12aa64068bec63c79806de96685937aab3b481",
+  "date": "2024-04-09T14:24:50.000+02:00",
+  "id": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
   "comment": "Pushed changes",
   "modifications": [
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/T6/5Y96Y0TC2XL6YLGIMN9UTK.uasset",
+      "edition": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
+      "previousEdition": "36659bff024330b2a66b9e8a7a912b898ad8159a"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/OWRGS0WOXILW03OZ0VCE6R.uasset",
+      "edition": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
+      "previousEdition": "36659bff024330b2a66b9e8a7a912b898ad8159a"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "a67b0c417fd5c62f48d60dc4217568c4f3004181",
+      "previousEdition": "36659bff024330b2a66b9e8a7a912b898ad8159a"
+    },
     {
       "action": "MODIFY",
       "path": ".gitignore",
@@ -50,12 +68,6 @@
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Config/WindowsEditor/Engine.ini",
-      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
-      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
       "edition": "9c12aa64068bec63c79806de96685937aab3b481",
       "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
     },
@@ -336,12 +348,6 @@
       "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
     },
     {
-      "action": "ADD",
-      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/OWRGS0WOXILW03OZ0VCE6R.uasset",
-      "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
-      "previousEdition": "9fd88ad4f7c151d147322716262e3b18c153c63c"
-    },
-    {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
       "edition": "187a3bc83d86e0eb2faea72285d4723aedf804ec",
@@ -500,5 +506,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 29
+  "buildId": 38
 }
