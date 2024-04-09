@@ -1768,3 +1768,92 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-12.47.16:642][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1308775794
 [2024.04.09-12.47.16:643][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1305475791
 [2024.04.09-12.47.16:643][714]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/OpenWorldOmg.OpenWorldOmg:PersistentLevel.StaticMeshActor_UAID_B06EBFBDC5D122D001_1309852795
+[2024.04.09-12.47.42:101][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.04.09-12.47.42:108][244]LogAssetEditorSubsystem: Opening Asset editor for World /Game/OpenWorldOmg.OpenWorldOmg
+[2024.04.09-12.47.42:108][244]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/OpenWorldOmg.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.47.42:108][244]LightingResults: New page: Lighting Build
+[2024.04.09-12.47.42:108][244]LoadErrors: New page: Loading map: OpenWorldOmg.umap
+[2024.04.09-12.47.42:174][244]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.47.42:174][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.47.42:175][244]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.04.09-12.47.42:175][244]MapCheck: New page: Map Check
+[2024.04.09-12.47.42:175][244]LightingResults: New page: Lighting Build
+[2024.04.09-12.47.42:200][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.47.42:214][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.09-12.47.42:226][244]LogAudio: Display: Audio Device (ID: 1) registered with world 'OpenWorldOmg'.
+[2024.04.09-12.47.42:226][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.47.42:226][244]LogAIModule: Creating AISystem for world OpenWorldOmg
+[2024.04.09-12.47.42:227][244]LogWorldPartition: ULevel::OnLevelLoaded(OpenWorldOmg)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.09-12.47.42:227][244]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-12.47.42:227][244]LogWorldPartition: UWorldPartition::Initialize(Asset=OpenWorldOmg, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.09-12.47.42:582][244]LogContentBundle: [Container: OpenWorldOmg] Creating new contrainer.
+[2024.04.09-12.47.42:582][244]LogWorldPartition: Display: WorldPartition initialize took 355 ms (total: 5.97 sec)
+[2024.04.09-12.47.43:138][244]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.47.43:253][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.04.09-12.47.43:260][244]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.47.43:261][244]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,904ms to complete.
+[2024.04.09-12.47.43:261][244]LogFileHelpers: Loading map 'OpenWorldOmg' took 1.153
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: ================================================
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Total job queries 175, among them cache hits 37 (21.14%)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Tracking 138 distinct input hashes that result in 110 distinct outputs (79.71%)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: RAM used: 1.11 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Shaders Compiled: 8
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Average time worker was idle: 50.32 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.07 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Job execution time: average 1.61 s, max 2.46 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 2.53
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.80 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Average processing rate: 2.10 jobs/sec
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Total thread time: 6.26 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Total thread preprocess time: 0.63 s
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Percentage time preprocessing: 9.98%
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Effective parallelization: 1.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.01 sec, max 1.14 sec, min 0.87 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.76 sec, max 0.78 sec, min 0.73 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.73 sec, max 0.75 sec, min 0.70 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.64 sec, max 0.74 sec, min 0.55 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.12% of total time (compiled    2 times, average 1.01 sec, max 1.14 sec, min 0.87 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 24.15% of total time (compiled    2 times, average 0.76 sec, max 0.78 sec, min 0.73 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.16% of total time (compiled    2 times, average 0.73 sec, max 0.75 sec, min 0.70 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 20.57% of total time (compiled    2 times, average 0.64 sec, max 0.74 sec, min 0.55 sec)
+[2024.04.09-12.47.43:420][244]LogShaderCompilers: Display: ================================================
+[2024.04.09-12.47.43:458][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.04.09-12.47.43:533][245]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MapTest.MapTest
+[2024.04.09-12.47.43:533][245]Cmd: MAP LOAD FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.09-12.47.43:533][245]LightingResults: New page: Lighting Build
+[2024.04.09-12.47.43:533][245]LoadErrors: New page: Loading map: MapTest.umap
+[2024.04.09-12.47.43:571][245]LogWorld: UWorld::CleanupWorld for OpenWorldOmg, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.47.43:571][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.47.43:576][245]LogContentBundle: [Container: OpenWorldOmg] Deleting container.
+[2024.04.09-12.47.43:576][245]MapCheck: New page: Map Check
+[2024.04.09-12.47.43:576][245]LightingResults: New page: Lighting Build
+[2024.04.09-12.47.43:603][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.09-12.47.43:616][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.04.09-12.47.43:620][245]LogWorld: UWorld::CleanupWorld for MapTest, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-12.47.43:620][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-12.47.43:646][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.04.09-12.47.43:670][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.04.09-12.47.43:675][245]LogAudio: Display: Audio Device (ID: 1) registered with world 'MapTest'.
+[2024.04.09-12.47.43:675][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-12.47.43:675][245]LogAIModule: Creating AISystem for world MapTest
+[2024.04.09-12.47.43:739][245]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.09-12.47.43:766][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.09-12.47.43:773][245]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.09-12.47.43:773][245]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,082ms to complete.
+[2024.04.09-12.47.43:773][245]LogFileHelpers: Loading map 'MapTest' took 0.241
+[2024.04.09-12.47.46:201][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.09-12.47.46:250][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapTest" FILE="D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.09-12.47.46:274][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.04.09-12.47.46:282][495]LogSavePackage: Moving output files for package: /Game/MapTest
+[2024.04.09-12.47.46:283][495]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/MapTest36CE39A84D9D22D623E1CAA58944AE5C.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/MapTest.umap'
+[2024.04.09-12.47.46:290][495]LogFileHelpers: Saving map 'MapTest' took 0.041
+[2024.04.09-12.47.46:298][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 1.92 sec)
+[2024.04.09-12.47.46:305][495]AssetCheck: New page: Asset Save: MapTest
+[2024.04.09-12.47.46:305][495]LogContentValidation: Display: Validating /Script/Engine.World /Game/MapTest.MapTest
+[2024.04.09-12.47.47:263][610]Cmd: SELECT NONE
