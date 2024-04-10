@@ -6391,3 +6391,49 @@ Make sure 'NewBlueprint_2_C' has been compiled for  Set NewVar
 [2024.04.10-08.19.05:509][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.10-08.19.05:512][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
 [2024.04.10-08.19.05:549][767]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.04.10-08.22.27:624][677]LogViewport: Scene viewport resized to 1014x439, mode Windowed.
+[2024.04.10-08.26.31:956][600]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2024.04.10-08.27.08:215][814]LogShaderCompilers: Display: ================================================
+[2024.04.10-08.27.08:215][814]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.10-08.27.08:215][814]LogShaderCompilers: Display: Total job queries 327, among them cache hits 170 (51.99%)
+[2024.04.10-08.27.08:215][814]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 123 distinct outputs (80.39%)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: RAM used: 1.21 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Shaders Compiled: 11
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Jobs assigned 15, completed 11 (73.33%)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Average time worker was idle: 844.69 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.09 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Job execution time: average 1.21 s, max 1.84 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 1.94
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.87 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Average processing rate: 2.26 jobs/sec
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Total thread time: 7.16 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Total thread preprocess time: 0.75 s
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Percentage time preprocessing: 10.41%
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Effective parallelization: 1.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.79 sec, max 0.81 sec, min 0.76 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.76 sec, max 0.81 sec, min 0.67 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.45 sec, max 0.47 sec, min 0.43 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.96% of total time (compiled    3 times, average 0.79 sec, max 0.81 sec, min 0.76 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.76% of total time (compiled    3 times, average 0.76 sec, max 0.81 sec, min 0.67 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.65% of total time (compiled    2 times, average 0.45 sec, max 0.47 sec, min 0.43 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.63% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.43% of total time (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2024.04.10-08.27.08:216][814]LogShaderCompilers: Display: ================================================
+[2024.04.10-08.27.21:471][ 35]LogSlate: Took 0.004837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.10-08.27.37:483][355]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.10-08.27.37:498][355]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.10-08.27.38:475][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.10-08.27.38:570][445]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/A/1S/9H4LRZ1NH46YGLL0Z0ZLL2
+[2024.04.10-08.27.38:571][445]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/9H4LRZ1NH46YGLL0Z0ZLL2EA7CF0B84106AB11D0387BA1BC4CD958.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/A/1S/9H4LRZ1NH46YGLL0Z0ZLL2.uasset'
+[2024.04.10-08.27.38:574][445]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPersonMap/A/A5/UDIBM5UO86EIGTFY0YENHF
+[2024.04.10-08.27.38:575][445]LogSavePackage: Moving 'D:/Repos/UnrealTestRepo/UnrealTestGit/Saved/UDIBM5UO86EIGTFY0YENHF788DB862455C268108337E87B4A72E99.tmp' to 'D:/Repos/UnrealTestRepo/UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/A/A5/UDIBM5UO86EIGTFY0YENHF.uasset'
+[2024.04.10-08.27.38:589][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 5.87 sec)
+[2024.04.10-08.27.38:595][445]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.10-08.27.38:596][445]LogContentValidation: Display: Validating /Game/NewBlueprint.NewBlueprint_C /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_C_UAID_B06EBFBDC5D13FEA01_1707754351
+[2024.04.10-08.27.38:596][445]LogContentValidation: Display: Validating /Game/NewBlueprint_2.NewBlueprint_2_C /Game/ThirdPersonMap.ThirdPersonMap:PersistentLevel.NewBlueprint_2_C_UAID_B06EBFBDC5D187EA01_1441723023

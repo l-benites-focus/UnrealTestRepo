@@ -1,10 +1,2416 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-09T15:37:19.000+02:00",
-  "id": "477967c60ea7037b0a019939504c5fea1f1ad993",
+  "date": "2024-04-10T10:22:26.000+02:00",
+  "id": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
   "comment": "Pushed changes",
   "modifications": [
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/Blueprints/NewBlueprint.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/Blueprints/NewBlueprint_2.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/MapTest.umap",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/NewBlueprint.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/NewBlueprint_2.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/OpenWorldTest.umap",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/OpenWorldTest_HLOD0_Instancing.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/0V/3UQSIM4AOIHER0RXAT9CAL.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/1W/ELBD42B4O5YEFC85AMO4D5.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/IJ/6QI730FWHNOPQ6CCX2WEXE.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/MR/HT2ED707BTEEMTDXLCPVIC.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/TB/S5ZKMICQ7IHC04NYQA187J.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/0/ZF/4EWKIW6NT3LS8JTAUMXSHE.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/77/OGP77LMMJ3ZRERML4V84VC.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/BV/KXTKWYYCMKGNXFOVMG80KQ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/DZ/NIO2EMMK6HQ1H6V9JCLFOC.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/I4/62EA6E453GD5ZUA1OCX2H6.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/IH/2LOZSW3VJ21B95B2CTVNCF.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/MC/5QGUPC0D1HNSYXYFTNDKDX.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/NU/4CBTXVTWXL8S6IFOJJ29RK.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/SW/0YFAHTVQ72ELIG9R6BZJZ9.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/U1/E5AA2FR9FX7C80TAVH7ODQ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/1/YM/YU9M7ZU7BVK6IC80EQYACY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/1E/F59JAQSSDW7SFQ1LF49YIE.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/5T/WXSIRM5Y6KHOKPMPRY3YUP.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/7B/JW6PGT0SSFHEUD1CMVJZK8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/M8/8MXN9QQEUMAJUNVON9AAIR.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/WP/5ZWPJKOU2IFHK7O9IZQFKX.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/XR/DBRKT7V6PKHAUEPX15L2G1.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/2/Z6/NB4G9XDXN6QKZG6LAQ2IE8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/2G/6GGDPCKEP1VZPG2HQENZZP.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/4Q/SL4WJBQVEDB9YFJ2UYI9SU.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/5X/P0T4JPKBQO9X4ZFYQSN5P8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/9C/QZVWQBHIUBBC2WZ5AI7G64.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/AG/21E2BK4TDRV9UNX7JHLTW5.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/B1/OJQ1VEZWLCLYJ1Q60J2QPW.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/DD/YBWTMZ1CIQOR02QSXH1H79.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/JR/LPXOTI2G8V23T6M9FENNC1.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/N2/WOWCENG7Y51I0OB46D229V.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/NX/6X39HNJN0MH6VGK8XNN45S.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/PP/AA43GGLHKFCCIXFS98IHVU.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/R9/RJF66Z5RZOK6Z6Y8CNPJ0E.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/RA/X8B4T9ZR6Q63CK27K8E1YM.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/T0/LHYOLVAF6YTYN6NSEWS4KU.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/3/W2/LY8SZNW8QYNQMD93XF4ZXR.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/03/RK9D89M22Z4LXK3GDH9W7K.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/0D/WZ1ZBF65QEHZMU7FRP1IA0.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/5F/5W1YLCPXLGYULJMD2HPSQ6.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/AD/815223O561R5A2SJXWIWCB.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/N7/YBXOYMLWL9HQJ6KO1D4VJF.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/OE/831K6FUZCHY1LMEBW6K2X9.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/PU/PZKFBCVERSGOAOFEP7U67U.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/4/QJ/4T3T0AAJ80SWO75DMAP0NK.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/40/DGFE9I9Y31RNJFGNAA94QO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/4M/6BASK3Z92K5T3DYWK0252S.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/4R/QQK2X0W6JW6Q3P5EWOX7YZ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/B8/GHRHT9TAZM8O6FOWTEXPDQ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/FG/WXCT9JM5EWWNZYU4NLT6GW.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/H4/YQNRZQNUTFSTO3PF2Y5B9F.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/K0/P7XBJV3OY09PUFSLRFQBFY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/MZ/HGOGLSF1SGMI62VNELUUIK.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/NX/67BPE4XVIA6HC3UB5TYCJX.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/TT/M7W9SBMX7MCPCYBNYWVX7K.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/5/V6/S0VYIS1IPWS0SFVXCLKIEZ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/AZ/9KN4TZ42NFE26FJMAYRMDS.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/CQ/XVKZLQGU5OA9F93RROB7XI.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/JW/98V2TYWPC8UTJ1O7O0GJJ8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/KI/DF62XK8ESB081YL7BS1RR1.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/M6/EZ5DQZMH10X897LNY0QZQP.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/U5/YAYDL9KOGBVW8U2JASYPM8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/6/X1/3QAZK6XCG3UGV4WFUO79LY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/1M/OXH58GFPM4LCXZM05W9IKS.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/5C/49EMSY4IXEJIS03IKAC6WG.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/5X/KRLPIU9NVVMRQFMGHOISCO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/9B/733TA2TJHGYY6BAP6GPQYC.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/I9/DWXWVJQ2BEG9OWGXW64T6S.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/JR/ZVFYT36PAB89KCZHKNNM7E.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/KV/9GUJK81FER8QE3A0D9E950.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/SN/SF55G2LAAS04V02BCD0CXH.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/UZ/GC7J3F7TTJTR1WIABULKJI.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/7/W0/WEU5Y0CGVDC9851O8KJC4S.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/8/HO/QRW1FE45SVQXJWBZNHMVFO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/8/TM/IHJQA1BBN7DUQWIB2W2774.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/8/WD/SMO2UXHYM970N39AI0TG55.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/78/PHB7ZM6XVPJ7Q3EATM1S0O.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/7M/G3H1ZT3JU8ESVF9WW1UZWE.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/93/SRB8JY7RD5U6SSAQH7D179.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/EP/4M43QSJB9YXMP0H8WWBNZY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/F0/1HSFZXXF5QQL3XT7BVAHSS.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/HJ/VVB6B1GOV7CEPEUVV9F2LG.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/JK/OXT10K29E36HPBWS7HDS0V.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/LU/ADSFAFRFC80MUWFRN7610S.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/MB/EPKII95NMOQFM1RMH1JJA6.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/MW/IN7PPBCA2SEBHHYYE4YS0B.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/9/SH/H9YUZ904UINM3YFMK2M500.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/27/BQUZBSR42EG54QKHFDPQFC.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/3G/XTOSGZI0XSM3WFZ4POUEUY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/6T/JKH7HN5ONDTCXF9S7RMYZ2.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/GD/OP4Y8ZWNK10P0EQGG9WB6H.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/NQ/OTAPWKL5OMG3LHNDV90OCN.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/ZL/OAO1WDFZ9I5QM5UE05FNRA.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/2E/IXIFP0TB949ZAGMNTS870K.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/63/TQ5WRHIL1LWMCN4C7OCVRV.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/6F/PEW6RQO04TY77450HFTY6B.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/B2/8VQDTB2YVJSODV75OEB9B6.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/DS/6UM0TT8301T2VI7HK4AL9H.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/SL/J9ZXZ0FTLFX9EPD2HW2DRY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/B/YU/Q70Z9YYR5A06G3U383AVDZ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/23/OEHDYU3SJGQW2P9BDEOPMA.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/2Q/C4CJVFJNDCO6BFUEK0032A.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/3N/YBL4O4YUG4CN1TD9T5F7C7.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/88/3LW0X57I98VN1HJE1LNRHD.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/B9/D0QQGVZEVGFSIPDV56DLUH.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/EW/YHIQ0S9DBM5OAKKO2NE6CU.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/KU/9C2565XIQJ9OD01EJLX7XB.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/TO/5D768OQV6CSBV9DYYRZ7KF.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/WF/TBE6TRNJN2CO6C593Q4BL7.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/XU/GI7UEDO6XVJ2PSH7JENH7A.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/C/YV/J5V80V0O8227FSP1F5VEL8.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/1E/GADJSJNY8D1G9U605BHUFO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/38/XQ5L74O3AJM0H21AZDN075.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/41/0O3X3C1N2ZKX25UFISJQFW.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/4S/12SEE6WAY92W5RUOO7RA2U.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/64/ZRQAFJFZY5SV3O8H13E1Q0.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/7W/KEML86F6LL0JZEUT0Q5I44.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/9K/BA6FG6ZUU3CVWT9CBCPA16.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/AE/R8I6GNY29M2X5OIC59JPS2.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/F9/UNV9J1ZEKLUTAFH503SGQS.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/G7/9CBPQ8UJYHRRFQRZULU7T7.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/MT/00CUQXKG8H1TZKY54T1ANM.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/P3/OS8Z842E1YQQNTGGVWMXLB.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/P5/6I0HMVAIJ6JET9F1MPEO4C.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/UP/F0S9H8O0PMRWGFYT79QRND.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/VO/9SPUROJBDA7LMET5ODGW2P.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/WV/4RVNLM4H8CPSD7ALHF3D2M.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/Y2/OP1F690AEJVQATHUDHZ6RY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/D/Y9/YJ2L5GMB2828I9IDOQUW69.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/EH/68L6ZBRU5SCY3MA1YTLNVY.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/KN/TCB27QUEUKDIEI4EB04DKQ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/LV/WG4GX7129Y77BPPE7PQS0Y.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/LX/GIA9XK5KWLEYPQU9R6LHSO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/MP/TCQ1MNGWYUSIAL7R2UVJPP.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/O9/A7O9JMKRPVQP8FHK5ECPNJ.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/E/W6/2I0C4LG7OY5H0MJSXAZ9ER.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/F/0H/TZ7YLDPYO3PAZ47QPCUQJM.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/F/3W/B8R3VA5H4413WYQ173DCWO.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldTest/4/49/FTWLZ8N0EN9HHYBFADJLLU.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldTest/6/8F/PNKYXRJP9PJ7FNMRAAV4J3.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldTest/B/OR/JSZKHGYWWJYGJDZPD4VY8P.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldTest/C/ZV/GJ4NYEUVY4KOZ9023ME4D5.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldTest/D/MV/CSLS67OUUKXML0XJ6N8BJE.uasset",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
+      "edition": "d86a57fdb0b50a7b79e6b7641f69ea7c610bc930",
+      "previousEdition": "1299eec0b6650f10ca964dec65e81b13b81008bb"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/MapTest.umap",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/OpenWorldOmg.umap",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/OpenWorldOmg_HLOD0_Instancing.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/ThirdPersonMap.umap",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/DH/XXGDTCDS9WBMUIX79W6391.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/EI/5LONO560Q56DG8ZVV0UZ9O.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/GI/8TCB2YJ9HNQ78EJQOA22TI.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/JV/OAJ97VEQ70A1UPJUVIIHI7.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/LX/1PZ7YOXHK7LR4W71G0W0UQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/OS/S7FHN27LOESUAO77I2SC38.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/QY/56UL1VSZOX1UIQ5R5DU2FN.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/RO/C3BOBWC0SEF2MQFDM2E5MY.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/SG/TCYANKE6ZPD3GHU9PB1F40.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/SJ/PAVCMQLXV1SN5O3DUKAS7R.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/WG/XS1FLSNN4J2UQ9PERQRE5K.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/YL/LZFD7JY9HPSQTLHT8V9FIY.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/Z7/HR35MUZNANX9RS0VBONU6P.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/ZK/EVRT2I3J0XSFK9SQSUFFQD.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/ZZ/F9GEUBB1YTCQDI80TB7SIQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/01/3M96T97WHK9YFF15O3B70P.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/7C/5GY8GM87PZZZEFKAAKV76F.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/7V/SB0NV7KW241JAPCGVA1B7D.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/G5/6HGE6C0JDUFCS64OX5MX3B.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/HL/A4809KX2OO6VUE6DPONIQQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/M2/BL9FSQHRDC0T61CI88CWTM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/MB/UKXOI1G6DEVKKVCGSI1KGY.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/NO/GT5ZC46VEEI78YTA95OPFU.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/OV/7P3E6SFM3F7753D9WM5YRM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/QX/0SEOH1NYDVOJK00ZP1ELFB.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/RJ/ABMMJ4FOGTC34ZB17XK18E.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/UE/7UG95RBDJKVNXQ1KO7NMNX.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/X7/VJT1LHOVD515AKVVEV562N.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/5H/98Y5MFP8O1SXIHR3G7FVQ3.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/71/CSPV4L1IZ6P0EUPR2EZDUB.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/7E/5IGDJMKY6XEJL6YK4ODVXJ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/AT/IECNOQ6MDD9BEO45SN6ZVP.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/BA/VTNKBPCYWMJ1SFSS66BQJA.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/J5/1WQ6TLP09CJ66I1U9L334A.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/LK/D5FSYY7D2VRPV2K0WEE9YG.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/LT/YTRLI0VQSFTTK951IG9PRD.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/M7/CAI9M63OM20R5BYLDQCPL2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/MT/TWV25J7X7E9AYEHVPFF4O1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/NP/9KPDVN262EQRGPLAU5FJAA.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/O5/A1A03Y0Q2PRP3SCK5PHPT3.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/RD/MKFO40QSBERXC7HTHZTX2K.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/1X/841S15592CTRNB7ZQJNXQD.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/3E/ZZ8TIWNVQ6NUZ3TWX53KRQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/AR/8VIB3FDJCUHG95T6AA883M.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/B3/TI2IZ1VZ84XEL338QIWYR5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D5/Q2B70NR5WUWONDNNOU6JWN.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/NH/RVC1K45OGHZ8246SFSTGYC.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/TA/2BHO6GN86J196XEIOL6XGS.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/X2/K3VPUG6XF7DINHTYAGFDI3.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/1C/UXJ1VQ3TG0APSY5IVDC4YE.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/3J/9WCYYZBZMLE014L4CWL2SN.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/5X/2LZMAXPYI0HHXHCL854UDF.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/85/BK44K5QMO3LDRH7Y0T6W6N.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/A3/6YO4Z3B9F6MVGHHDMVYXCQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/BF/3ZN00CUQQ9CRW96QB7QLBP.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/FC/LCHBTO061DHFX8G6IUMALD.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/FG/T8FWR5EWSIRL405JTMEY1Z.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/HR/JRXUMCYB3WI28J5XED2DO0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/L6/JFTOECEE6CB2E7MOAVBB3J.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/LC/5SKL5UPIZA5RMUKHUB1S3B.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/P0/BTZ141VJDNBD84XO7DRSXL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/VD/E952M0TLKLRRV34J9Z1A4T.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/W7/075QPGFBBHM022J3EU19DO.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/WV/F6CAQ3ZUOX1TJWOQCYDY6D.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/5S/RF3IVAYWXATZF7DGIOIMO7.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/8Q/6H4GY6L81NR0YYROMLYYQI.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/B3/63WS5IX6UC5XEGLJ7E93P8.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/EH/LBISJPR1RZFEIDLPVY9V3C.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/FN/818CTTQP1J1RIY2ZAOT5BJ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/IF/D6V2GIX6YL1RJOA5H2N0WM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/JK/OM4N1BE0MF6E2ROCYTP775.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/KW/N3QKCM6FEPTDB3W1TF4M8Y.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/OJ/29L6L0JGHXRS7QB0FAUH8W.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/TU/ZDFU869A3BTD65BTGRZMN3.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/YF/98362K2EC6OI84OVDZX3R8.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/Z1/WJY88LOVWLVB9HTIFD2XVK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/60/7266ZIW0013VXDPS66I4RD.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/6Q/WH6E70UXCL78D4M3MPBG59.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/87/XEZVVIRVC069SJI31X3OU7.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/GZ/PDN57GTNXDOZ28WJUTM40Y.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/H2/UWWI453F29P5FRDA2AL78P.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/MZ/O0U4S55XK2A8PB898MNKGI.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/NM/IKWTI9ITJR5DEZLZ6ZFLDE.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/O2/HAA3X43MHA9656SOBEK9C4.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/OE/WNKC796J9S39FPELK6VFC1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/RR/NNLXNC2JG8ABQFA21GIFEZ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/W3/CW2OC1RVLR4QG4QAPH92JQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/Y5/WGN5NQ7J5DFXZTPXKIJJVV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/ZK/VTOU7R1774TZ3A3HACCDY1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/ZP/USE59PBZ9903A51WXR1BHL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/0T/L2TQKAEKF8W3OWQCWJ7GTC.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/A1/4B6ARROFUIEVGFS8IN8ORJ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/AZ/ZX74PSLUROTK3RRCRXMDD0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/DJ/M3HG94IQCNQUIP85OT7DCI.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/J7/2CWSCXRFQD4EGM6043B6S1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/ND/KWZAR4B53D9RQ6F2U9VK21.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/ON/QJMWSTNA2JENS38DYBX7DT.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/P8/USDDR0D9LSDS912MLN2SCB.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/QA/AK4TIFWCI5MB5N8C1UNGBM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/QG/NCQ9IO51IPNBG4IXV0ZSA4.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/VK/XZW0OC05POOYL3ST9YR8Z2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/YK/YPX0V7HTEC6WNY0QKE9ASK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/09/V2YN6LM0H27RQT6XZSWF55.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/0A/Z94S7KCF9LO40IB630BG32.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/1F/O89NKUFQTEEBMKP3HQRT09.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/66/Q9K5LYXGQLKFOTAZ8XZKYH.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/6W/2IK6CNN5SM1W2B0KQ9YMDM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/CH/TLOLP4JHFNLZRUB9Y6P18T.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/G9/F2HJKOXN8DJE3CA35JC0HU.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/GK/CXM74K2KB4MMM8LYD07VR2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/HT/5SNP8HAO0FD9TEO8G3K4AQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/IE/MYBG864JPLJEBCM9V1MAYM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/IR/UPI8D067YZH1E610A9ACQF.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/J3/JMV3KUXYX5SWUNWE4YOA8G.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/L1/TCMRZMRLDP9RZHKGRLLHQP.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/NN/D3MPFSQU1FTONOARPVVQYR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/NR/U4GWKABYK7F0Q0VBODC9FS.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/PJ/AQV0L0L5Q733EXIZ5A1ZDA.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/U9/4TML0OED8EO5MDQ0EPWRYL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/XD/6DRS8SU5METXIP11URH72B.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/YK/FI29MG180KPF43SI18E5LL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/ZE/JQPAJS85YHHJFWJPFU5CM0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/0F/VM3Y5XLH5RZIN2PLWDX8R9.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/1W/OWIGCSMSB862DWDR299PTL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/8T/V87K2Y6ASYD9IGZLH2RP7H.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/A3/RZ4MNYUETV1TYMLJBXY1RO.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/BE/SGFVC7IYULINHU1LD2SG2G.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/BZ/Y10VHQ6X1NFKM8UQBZVXHE.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/C2/QY7SRPZZGZT4XX1ZXQ9GTN.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/M8/5XJL74UBD3IWFL504N4F17.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/PH/3Y6LJMJVVQ5GOGDYCLM3GT.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/Q1/FEMGMNUXQ38221FS0OQRZ6.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/RV/CLQZVN6ID2QUOSZQZK8A46.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/Y4/PCZHTKIR32WKVBW5A81MF9.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/YK/8UN283N8VSP6LC7B4D0YG9.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/YZ/5ZJ7FJK8YKQGXSLGEIAPB5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/0K/9H86A2PJRJ5NGHMU3PWT3R.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/1A/AP15QSEO4BBONASFCWPWZG.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/6J/GK5OSDJS51X97Y93NWAHCP.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/73/ZG9RYWVCDPFC7NT3E17K0L.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/8Q/K1OECOSTVA9W5LQ3T3JJN5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/CV/QP99VC2QCBCGMU75ITPCWU.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/J3/2VLVHMXZMU9FNVS0IHXTI1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/O2/J7LH196UVSCCIYHYPWZLR5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/P7/QFTBMZ2GGL4A5JTNYLU6WG.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/QB/5MQ3J7XKX36GTU1PGA2L9C.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/UP/GZ895UCUJ20Q070F76CSA7.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/XN/DP7M6HTFNZSD6SZZ0A1PUE.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/YP/SBGKCFC8LLL8SKMHKALEVZ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/0I/WR6FF19WLPO6UE4QGXIJHM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/1G/0AWSH64R1Q7Z3437UD2VR1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/2Y/KVEMSB0F0TGTWBGBCGWOTV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/47/PD62NS0CZHBWTF94114YKK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/5D/CSKBGYQG1WPFQ7XYLROU3V.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/85/V6H24OOHYGBMCPG6ZEV6WK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/8P/OUG1WZPQSJAIYF1J6XC0OS.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/C1/SY0UIOBLMJT6HGYITL5I1A.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/EM/F4BY4ZQKVDKS9OGQN1T12G.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/H4/GMKGSPWV117P3PLJ4ND5SC.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/IR/DQDSC0FTMS9QS07UINRD87.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/K4/HRRJLA24GG0OPUVLCJ1KMB.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/LZ/59W9Q4VDI8H5ULWLA20D93.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/OV/Q2QIUPYR2I07G1THXM76VR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/P4/DAJFG5E34KJV1BUK58A4AN.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/PG/AQTV1JV30DPXHL73ISFMDV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/R2/2JKXAZLI0KJFRYG9ZXQWNA.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/SF/HQ99AL9AJ27WYKZWBNBX11.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/T9/NHWN21F0BWC5JANBSMF07Q.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/TX/8ONDCYOFLMHDERTEVJLQW2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/UZ/4T187RLW2J8NHC2EGDPFA1.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/XS/B9L6D99NT8SNKMGGNR11DR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/A8/BYE6G4EL0ATBB6EWVS7UBQ.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/BF/AEI7N2GDHPFER2RFZ5JQ8E.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/CZ/SU7PTF7H4R0CT4W1JDU2R5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/E8/2IJWEXNMHB928XS2CYRODO.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/EK/4PXN4C62T30X39YRG20EU8.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/ER/VIOC8E99KYFHFXPFRERAVM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/ES/1XI9V81OQJSTZD4W1Q2DO6.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/FU/0E35VI1ARP70GT1E0S6N8N.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/JC/S6VX24EE881E4H3I9SWXR5.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/MF/SAQ2YRRB3LGFAGN92DTA8Y.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/PT/Q4XJPULBQRDL6RFGJWM515.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/SG/CRJW4PRWBIWC9JTUY6ONZG.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/TI/I5NQVJTUYPY9XQ2D4UBVM6.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/WA/ZKGZOCGSYDLVAFWMGIZ31T.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/5O/5H7V064VJ178BA5QU8HX2L.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/88/VL2VAFRIYR0FWFEV9AHEWR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/C7/EMRY3BGQABQDFKKWAGJ087.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/DF/F9S58D9YLTY5QMA44SLPFP.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/E9/QEYSKM52DC2MIGDU21WSIE.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/LG/8NAZN524Q217RFDSGEOPXM.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/M4/LSCXM8E4OIP93XWVJAKA09.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/NP/SY5BJFATPXNYX3VGJ1C2X8.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/PC/Q2CN074C1BPB0IDC3CTSWK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/W5/QEQ1KBCSS4S2CZ7ZQ3MZIK.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/WE/GUI4NCW2A821B925TQSKP0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/8V/5PW6J4XL74HRDLA7B0DUKV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/9Z/U01CXEHF6FSJ89GXHUQSIA.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/TI/RWL2ZBQXPQ45RGVRC5JB6O.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/VB/ZO9L2EKREGS3EAIE63HN7E.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/WB/KKZQNGVHYN12RFHH6O1GOH.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/X5/X2K72WAV9G2OSV20HLXB2P.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/F/3Z/KQ9MFSKWQD7KE7E3M0O2YU.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/F/4O/817NESH51CFTBX7CBI5OQY.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/2/9S/H9XBOAG1ALK0BNG4QVFO0P.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/2/IM/VNZA3BJR97COF4VDOYGZXR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/4/GM/9A25H4HV5UKTEJX2Q4GL56.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/4/GV/JS8SQY1KLY0L41C2NKZUQR.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/7/07/WZLDJD7I41AWH1S1K5MLQ2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/7/51/KNHIZAFMR2CJPT5NJ4U85Z.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/7/5J/CK5PW3S5X1ZY0JELEMIPFV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/8/7N/YXJPWE3A1NQ6R18NT53WA8.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/A/1S/9H4LRZ1NH46YGLL0Z0ZLL2.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/A/A5/UDIBM5UO86EIGTFY0YENHF.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "ADD",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/C/UV/WPWZ9T3E2G7CI1B18WD7SV.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldOmg/0/NG/ANFCSY4Z4AYUP1OMXNUIW0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldOmg/1/KD/X462XOF3UIWEVOUGP9L7O0.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldOmg/1/NS/W8LQS440M5MQNM4VZ3U7BX.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldOmg/1/SX/ETW7G6N7BFKXA7HX7N12LL.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalObjects__/OpenWorldOmg/3/G7/4F4PMTT3KBOBUPI5F84U97.uasset",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/Engine.ini",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
+      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
+      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Manifest.txt",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/AutoScreenshot.png",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Config/WindowsEditor/Engine.ini",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
+      "edition": "abc2b9c224605701b74b068bdd35b06912e119bf",
+      "previousEdition": "477967c60ea7037b0a019939504c5fea1f1ad993"
+    },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/T6/5Y96Y0TC2XL6YLGIMN9UTK.uasset",
@@ -16,66 +2422,6 @@
       "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/OWRGS0WOXILW03OZ0VCE6R.uasset",
       "edition": "477967c60ea7037b0a019939504c5fea1f1ad993",
       "previousEdition": "991c333e3cc10cd26c1d712f5fb3399af4cfe01a"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Intermediate/CachedAssetRegistry.bin",
-      "edition": "477967c60ea7037b0a019939504c5fea1f1ad993",
-      "previousEdition": "991c333e3cc10cd26c1d712f5fb3399af4cfe01a"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/AutoScreenshot.png",
-      "edition": "477967c60ea7037b0a019939504c5fea1f1ad993",
-      "previousEdition": "991c333e3cc10cd26c1d712f5fb3399af4cfe01a"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini",
-      "edition": "477967c60ea7037b0a019939504c5fea1f1ad993",
-      "previousEdition": "991c333e3cc10cd26c1d712f5fb3399af4cfe01a"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Logs/UnrealTestGit.log",
-      "edition": "477967c60ea7037b0a019939504c5fea1f1ad993",
-      "previousEdition": "991c333e3cc10cd26c1d712f5fb3399af4cfe01a"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/D1/RU35BI4RX7IIFMZKKHLPPL.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/QR/A0IDJHTCM8RXQOICFC2JDI.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/10/18CJ44WY2738P3TC37NIFO.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/IG/GA1EN5BON9BK19IQ3JRM05.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/XV/JWLQYW6YQM6X637C3OT4SO.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/D/VD/MUH7PAEX84JJT340HYB0TR.uasset",
-      "edition": "41b28da53bc27a13ceb5b60837c1a4fe31322835",
-      "previousEdition": "119a9afe02a592228000f174c26f46cddfd9b4fb"
     },
     {
       "action": "ADD",
@@ -97,43 +2443,7 @@
     },
     {
       "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/SourceControl/UncontrolledChangelists.json",
-      "edition": "41e98afb8d27e75e0aae2a08225cdf3e374add98",
-      "previousEdition": "a8ad564466d179f4183526f5222e617b159150fc"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
-      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
-      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/X2/K3VPUG6XF7DINHTYAGFDI3.uasset",
-      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
-      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Manifest.txt",
-      "edition": "6857d32c453bed37cbe4fea71fae355d4c51ffb1",
-      "previousEdition": "eb2c479ec185ea7a5e782cdfeeabba621f9cd255"
-    },
-    {
-      "action": "MODIFY",
       "path": ".gitignore",
-      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
-      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Autosaves/PackageRestoreData.json",
-      "edition": "9c12aa64068bec63c79806de96685937aab3b481",
-      "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Config/WindowsEditor/Engine.ini",
       "edition": "9c12aa64068bec63c79806de96685937aab3b481",
       "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
     },
@@ -172,246 +2482,6 @@
       "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM6-PCD3D_SM6/ShaderDebug-UnrealTestGit-PCD3D_SM6-PCD3D_SM6/Dump.txt",
       "edition": "9c12aa64068bec63c79806de96685937aab3b481",
       "previousEdition": "1e51e4d78369ffc6228b01502b62cf783f230ec9"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/SJ/PAVCMQLXV1SN5O3DUKAS7R.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/0/WG/XS1FLSNN4J2UQ9PERQRE5K.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/1/7V/SB0NV7KW241JAPCGVA1B7D.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/5H/98Y5MFP8O1SXIHR3G7FVQ3.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/7E/5IGDJMKY6XEJL6YK4ODVXJ.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/2/M7/CAI9M63OM20R5BYLDQCPL2.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/1X/841S15592CTRNB7ZQJNXQD.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/B3/TI2IZ1VZ84XEL338QIWYR5.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/3/TA/2BHO6GN86J196XEIOL6XGS.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/4/A3/6YO4Z3B9F6MVGHHDMVYXCQ.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/JK/OM4N1BE0MF6E2ROCYTP775.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/5/Z1/WJY88LOVWLVB9HTIFD2XVK.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/H2/UWWI453F29P5FRDA2AL78P.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/W3/CW2OC1RVLR4QG4QAPH92JQ.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/6/ZP/USE59PBZ9903A51WXR1BHL.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/0T/L2TQKAEKF8W3OWQCWJ7GTC.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/7/AZ/ZX74PSLUROTK3RRCRXMDD0.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/09/V2YN6LM0H27RQT6XZSWF55.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/CH/TLOLP4JHFNLZRUB9Y6P18T.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/G9/F2HJKOXN8DJE3CA35JC0HU.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/8/IE/MYBG864JPLJEBCM9V1MAYM.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/8T/V87K2Y6ASYD9IGZLH2RP7H.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/A3/RZ4MNYUETV1TYMLJBXY1RO.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/9/Q1/FEMGMNUXQ38221FS0OQRZ6.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/P7/QFTBMZ2GGL4A5JTNYLU6WG.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/XN/DP7M6HTFNZSD6SZZ0A1PUE.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/A/YP/SBGKCFC8LLL8SKMHKALEVZ.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/0I/WR6FF19WLPO6UE4QGXIJHM.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/1G/0AWSH64R1Q7Z3437UD2VR1.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/P4/DAJFG5E34KJV1BUK58A4AN.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/R2/2JKXAZLI0KJFRYG9ZXQWNA.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/T9/NHWN21F0BWC5JANBSMF07Q.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/B/TX/8ONDCYOFLMHDERTEVJLQW2.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/E8/2IJWEXNMHB928XS2CYRODO.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/ES/1XI9V81OQJSTZD4W1Q2DO6.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/MF/SAQ2YRRB3LGFAGN92DTA8Y.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/TI/I5NQVJTUYPY9XQ2D4UBVM6.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/C/WA/ZKGZOCGSYDLVAFWMGIZ31T.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/E/X5/X2K72WAV9G2OSV20HLXB2P.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldOmg/F/3Z/KQ9MFSKWQD7KE7E3M0O2YU.uasset",
-      "edition": "1e51e4d78369ffc6228b01502b62cf783f230ec9",
-      "previousEdition": "187a3bc83d86e0eb2faea72285d4723aedf804ec"
     },
     {
       "action": "DELETE",
@@ -566,5 +2636,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 50
+  "buildId": 51
 }
