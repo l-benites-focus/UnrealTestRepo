@@ -1,15 +1,33 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-10T14:05:32.000+02:00",
-  "id": "829d0e5bf7a1da111d12900303ad47a438dddade",
+  "date": "2024-04-10T15:44:55.000+02:00",
+  "id": "7272d4df963a74b1e0f61f0db855fe81f847e151",
   "comment": "Pushed changes",
   "modifications": [
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
-      "edition": "829d0e5bf7a1da111d12900303ad47a438dddade",
-      "previousEdition": "cfd8e0c446e69a967bb6ef28fe97ce0566a0ab21"
+      "edition": "7272d4df963a74b1e0f61f0db855fe81f847e151",
+      "previousEdition": "e55f03d7ddf51a241a3abc06757eb2d73f46ee2b"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/OpenWorldTest/A/TD/HI8FLO7LTA31ZCEZZKALHC.uasset",
+      "edition": "7272d4df963a74b1e0f61f0db855fe81f847e151",
+      "previousEdition": "e55f03d7ddf51a241a3abc06757eb2d73f46ee2b"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/8/OL/EFVHE36G2K74RQ4GV0M8IL.uasset",
+      "edition": "7272d4df963a74b1e0f61f0db855fe81f847e151",
+      "previousEdition": "e55f03d7ddf51a241a3abc06757eb2d73f46ee2b"
+    },
+    {
+      "action": "MODIFY",
+      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderAssetInfo-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.assetinfo.json",
+      "edition": "7272d4df963a74b1e0f61f0db855fe81f847e151",
+      "previousEdition": "e55f03d7ddf51a241a3abc06757eb2d73f46ee2b"
     },
     {
       "action": "DELETE",
@@ -50,12 +68,6 @@
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Manifest.txt",
-      "edition": "829d0e5bf7a1da111d12900303ad47a438dddade",
-      "previousEdition": "cfd8e0c446e69a967bb6ef28fe97ce0566a0ab21"
-    },
-    {
-      "action": "MODIFY",
-      "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderAssetInfo-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.assetinfo.json",
       "edition": "829d0e5bf7a1da111d12900303ad47a438dddade",
       "previousEdition": "cfd8e0c446e69a967bb6ef28fe97ce0566a0ab21"
     },
@@ -2690,5 +2702,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 61
+  "buildId": 65
 }
