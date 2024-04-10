@@ -1,57 +1,63 @@
 {
   "@class": "com.pmease.quickbuild.plugin.report.changes.rest.RawChangeset",
   "user": "Léandro Benites",
-  "date": "2024-04-10T12:03:27.000+02:00",
-  "id": "98371981a9685640f90a75d15de26b8ddcaadcea",
+  "date": "2024-04-10T12:13:18.000+02:00",
+  "id": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
   "comment": "Pushed changes",
   "modifications": [
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Build/Windows/FileOpenOrder/EditorOpenOrder.log",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Config/DefaultEngine.ini",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
+    },
+    {
+      "action": "DELETE",
+      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6.uasset",
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Intermediate/Config/CoalescedSourceConfigs/Engine.ini",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Manifest.txt",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderAssetInfo-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.assetinfo.json",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderCode-UnrealTestGit-PCD3D_SM5-PCD3D_SM5.ushaderbytecode",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Shaders/PCD3D_SM5-PCD3D_SM5/ShaderDebug-UnrealTestGit-PCD3D_SM5-PCD3D_SM5/Dump.txt",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
       "path": "UnrealTestGit/Saved/Temp/Win64/UnrealTestGit/Config/DefaultEngine.ini",
-      "edition": "98371981a9685640f90a75d15de26b8ddcaadcea",
-      "previousEdition": "b684ff4174edc3ad3fdb8bfe88ba56bdf69e00de"
+      "edition": "b8ec988b9ccd2a4e2440fd6d20385356c6d11b2b",
+      "previousEdition": "98371981a9685640f90a75d15de26b8ddcaadcea"
     },
     {
       "action": "MODIFY",
@@ -2395,12 +2401,6 @@
     },
     {
       "action": "ADD",
-      "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/8/YZ/SO0T5RIVL0KJ86YQXHMPQ6.uasset",
-      "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
-      "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
-    },
-    {
-      "action": "ADD",
       "path": "UnrealTestGit/Content/__ExternalActors__/ThirdPersonMap/9/HM/YFCVOXPTL18B0FYZUQD8O6.uasset",
       "edition": "1299eec0b6650f10ca964dec65e81b13b81008bb",
       "previousEdition": "abc2b9c224605701b74b068bdd35b06912e119bf"
@@ -2660,5 +2660,5 @@
   ],
   "repositoryName": "UnrealGitTest",
   "repositoryType": "GitHub",
-  "buildId": 57
+  "buildId": 58
 }
